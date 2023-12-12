@@ -1,5 +1,6 @@
 
 from phishpedia.phishpedia_main import *
+from datasets import load_dataset
 import time
 import datetime
 import sys
@@ -8,10 +9,12 @@ import argparse
 import os
 os.environ['KMP_DUPLICATE_LIB_OK']='True'
 
-
 if __name__ == '__main__':
 
     ELE_MODEL, SIAMESE_THRE, SIAMESE_MODEL, LOGO_FEATS, LOGO_FILES, DOMAIN_MAP_PATH = load_config(None)
+
+    dataset = load_dataset("KaguraRuri/Datasets_pedia")
+    dataset.save_to_disk("phishpedia/datasets/test_sites")
 
     date = datetime.today().strftime('%Y-%m-%d')
     print('Today is:', date)
