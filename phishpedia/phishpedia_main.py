@@ -1,4 +1,4 @@
-from .phishpedia_config import *
+from phishpedia.configs.phishpedia_config import *
 import os
 import argparse
 import time

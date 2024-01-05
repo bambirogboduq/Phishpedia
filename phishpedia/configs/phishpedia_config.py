@@ -1,6 +1,6 @@
 # Global configuration
 from phishpedia.src.siamese import *
-from phishpedia.src.detectron2_pedia.inference import *
+from phishpedia.src.detectron2_pedia.inference.inference import *
 import phishpedia
 import subprocess
 from typing import Union

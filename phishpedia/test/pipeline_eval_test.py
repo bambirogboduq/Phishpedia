@@ -5,7 +5,7 @@ from src.pipeline_eval import phishpedia_eval
 from tqdm import tqdm
 import time
 from phishpedia.src.siamese import *
-from phishpedia.src.detectron2_pedia.inference import *
+from phishpedia.src.detectron2_pedia.inference.inference import *
 import argparse
 import errno
 
