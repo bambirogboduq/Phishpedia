@@ -1,0 +1,1199 @@
+.\build\lib\phishpedia\__init__.py:4:1: F403 'from .phishpedia_config import *' used; unable to detect undefined names
+.\build\lib\phishpedia\__init__.py:4:1: F401 '.phishpedia_config.*' imported but unused
+.\build\lib\phishpedia\__init__.py:5:1: F403 'from .phishpedia_main import *' used; unable to detect undefined names
+.\build\lib\phishpedia\__init__.py:5:1: F401 '.phishpedia_main.*' imported but unused
+.\build\lib\phishpedia\__init__.py:5:31: W292 no newline at end of file
+.\build\lib\phishpedia\phishpedia_config.py:2:1: F403 'from phishpedia.src.siamese import *' used; unable to detect undefined names
+.\build\lib\phishpedia\phishpedia_config.py:3:1: F403 'from phishpedia.src.detectron2_pedia.inference import *' used; unable to detect undefined names
+.\build\lib\phishpedia\phishpedia_config.py:4:1: F401 'phishpedia' imported but unused
+.\build\lib\phishpedia\phishpedia_config.py:13:19: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\build\lib\phishpedia\phishpedia_config.py:13:32: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\build\lib\phishpedia\phishpedia_config.py:13:80: E501 line too long (83 > 79 characters)
+.\build\lib\phishpedia\phishpedia_config.py:19:66: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\build\lib\phishpedia\phishpedia_config.py:20:74: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\build\lib\phishpedia\phishpedia_config.py:20:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\phishpedia_config.py:22:17: F405 'config_rcnn' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\build\lib\phishpedia\phishpedia_config.py:22:80: E501 line too long (91 > 79 characters)
+.\build\lib\phishpedia\phishpedia_config.py:29:22: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\build\lib\phishpedia\phishpedia_config.py:30:21: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\build\lib\phishpedia\phishpedia_config.py:32:34: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\build\lib\phishpedia\phishpedia_config.py:32:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\phishpedia_config.py:34:53: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\build\lib\phishpedia\phishpedia_config.py:34:80: E501 line too long (115 > 79 characters)
+.\build\lib\phishpedia\phishpedia_config.py:34:107: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\build\lib\phishpedia\phishpedia_config.py:35:9: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\build\lib\phishpedia\phishpedia_config.py:36:80: E501 line too long (105 > 79 characters)
+.\build\lib\phishpedia\phishpedia_config.py:38:45: F405 'phishpedia_config' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\build\lib\phishpedia\phishpedia_config.py:39:80: E501 line too long (100 > 79 characters)
+.\build\lib\phishpedia\phishpedia_config.py:40:80: E501 line too long (123 > 79 characters)
+.\build\lib\phishpedia\phishpedia_config.py:40:116: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\build\lib\phishpedia\phishpedia_config.py:41:80: E501 line too long (112 > 79 characters)
+.\build\lib\phishpedia\phishpedia_config.py:41:105: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\build\lib\phishpedia\phishpedia_config.py:44:80: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\build\lib\phishpedia\phishpedia_config.py:44:80: E501 line too long (86 > 79 characters)
+.\build\lib\phishpedia\phishpedia_config.py:46:80: E501 line too long (90 > 79 characters)
+.\build\lib\phishpedia\phishpedia_config.py:50:1: W391 blank line at end of file
+.\build\lib\phishpedia\phishpedia_main.py:1:1: F403 'from .phishpedia_config import *' used; unable to detect undefined names
+.\build\lib\phishpedia\phishpedia_main.py:5:1: F403 'from .src.util.chrome import *' used; unable to detect undefined names
+.\build\lib\phishpedia\phishpedia_main.py:7:35: E225 missing whitespace around operator
+.\build\lib\phishpedia\phishpedia_main.py:9:80: E501 line too long (117 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:11:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:15:80: E501 line too long (117 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:18:80: E501 line too long (112 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:40:5: E266 too many leading '#' for block comment
+.\build\lib\phishpedia\phishpedia_main.py:40:80: E501 line too long (97 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:41:27: F405 'pred_rcnn' may be undefined, or defined from star imports: .phishpedia_config, .src.util.chrome
+.\build\lib\phishpedia\phishpedia_main.py:44:15: F405 'vis' may be undefined, or defined from star imports: .phishpedia_config, .src.util.chrome
+.\build\lib\phishpedia\phishpedia_main.py:53:5: E303 too many blank lines (2)
+.\build\lib\phishpedia\phishpedia_main.py:53:5: E266 too many leading '#' for block comment
+.\build\lib\phishpedia\phishpedia_main.py:53:80: E501 line too long (99 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:54:48: F405 'phishpedia_classifier_logo' may be undefined, or defined from star imports: .phishpedia_config, .src.util.chrome
+.\build\lib\phishpedia\phishpedia_main.py:54:80: E501 line too long (96 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:55:70: E128 continuation line under-indented for visual indent
+.\build\lib\phishpedia\phishpedia_main.py:55:80: E501 line too long (101 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:56:70: E128 continuation line under-indented for visual indent
+.\build\lib\phishpedia\phishpedia_main.py:56:80: E501 line too long (89 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:57:70: E128 continuation line under-indented for visual indent
+.\build\lib\phishpedia\phishpedia_main.py:57:80: E501 line too long (95 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:58:70: E128 continuation line under-indented for visual indent
+.\build\lib\phishpedia\phishpedia_main.py:58:80: E501 line too long (95 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:59:70: E128 continuation line under-indented for visual indent
+.\build\lib\phishpedia\phishpedia_main.py:60:70: E128 continuation line under-indented for visual indent
+.\build\lib\phishpedia\phishpedia_main.py:60:80: E501 line too long (95 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:61:70: E128 continuation line under-indented for visual indent
+.\build\lib\phishpedia\phishpedia_main.py:61:80: E501 line too long (85 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:70:9: F405 'cv2' may be undefined, or defined from star imports: .phishpedia_config, .src.util.chrome
+.\build\lib\phishpedia\phishpedia_main.py:70:80: E501 line too long (99 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:72:21: F405 'cv2' may be undefined, or defined from star imports: .phishpedia_config, .src.util.chrome
+.\build\lib\phishpedia\phishpedia_main.py:77:80: E501 line too long (108 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:91:17: F405 'tqdm' may be undefined, or defined from star imports: .phishpedia_config, .src.util.chrome
+.\build\lib\phishpedia\phishpedia_main.py:94:69: E261 at least two spaces before inline comment
+.\build\lib\phishpedia\phishpedia_main.py:94:80: E501 line too long (90 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:107:9: E722 do not use bare 'except'
+.\build\lib\phishpedia\phishpedia_main.py:110:80: E501 line too long (120 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:111:80: E501 line too long (99 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:112:80: E501 line too long (105 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:113:80: E501 line too long (107 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:114:80: E501 line too long (101 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:115:80: E501 line too long (101 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:116:80: E501 line too long (111 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:122:20: F405 'vt_scan' may be undefined, or defined from star imports: .phishpedia_config, .src.util.chrome
+.\build\lib\phishpedia\phishpedia_main.py:123:39: F405 'vt_scan' may be undefined, or defined from star imports: .phishpedia_config, .src.util.chrome
+.\build\lib\phishpedia\phishpedia_main.py:130:13: F841 local variable 'e' is assigned to but never used
+.\build\lib\phishpedia\phishpedia_main.py:146:17: F405 'cv2' may be undefined, or defined from star imports: .phishpedia_config, .src.util.chrome
+.\build\lib\phishpedia\phishpedia_main.py:155:80: E501 line too long (118 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:156:80: E501 line too long (97 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:157:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:163:80: E501 line too long (112 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:178:80: E501 line too long (94 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:186:80: E501 line too long (91 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:192:80: E501 line too long (130 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:193:80: E501 line too long (109 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:194:80: E501 line too long (115 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:195:80: E501 line too long (117 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:196:80: E501 line too long (111 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:197:80: E501 line too long (111 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:198:80: E501 line too long (121 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:200:80: E501 line too long (81 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:221:80: E501 line too long (85 > 79 characters)
+.\build\lib\phishpedia\phishpedia_main.py:235:1: W391 blank line at end of file
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:16:80: E501 line too long (91 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:31:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:35:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:46:59: W291 trailing whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:48:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:52:80: E501 line too long (98 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:54:80: E501 line too long (109 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:62:80: E501 line too long (86 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:63:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:68:80: E501 line too long (91 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:70:80: E501 line too long (87 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:71:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:74:17: E741 ambiguous variable name 'I'
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:75:80: E501 line too long (87 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:76:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:80:80: E501 line too long (91 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:82:80: E501 line too long (87 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:83:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:85:80: E501 line too long (118 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:86:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:87:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:88:13: E303 too many blank lines (2)
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:98:18: E261 at least two spaces before inline comment
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:102:80: E501 line too long (86 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:103:80: E501 line too long (91 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:106:80: E501 line too long (85 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:108:80: E501 line too long (90 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:109:80: E501 line too long (90 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:123:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:6:80: E501 line too long (109 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:6:108: E203 whitespace before ':'
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:8:80: E501 line too long (98 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:21:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:23:13: E203 whitespace before ':'
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:24:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:30:80: E501 line too long (116 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:31:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:32:58: W291 trailing whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:35:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:36:5: E303 too many blank lines (2)
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:38:50: E261 at least two spaces before inline comment
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:38:80: E501 line too long (83 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:40:32: E203 whitespace before ':'
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:42:34: W291 trailing whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:44:54: E261 at least two spaces before inline comment
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:45:34: E261 at least two spaces before inline comment
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:46:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:47:29: W291 trailing whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:48:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:53:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:57:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:58:24: W291 trailing whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:60:58: W291 trailing whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:64:54: E225 missing whitespace around operator
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:64:80: E501 line too long (87 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:65:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:67:42: W291 trailing whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:68:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:71:1: W391 blank line at end of file
+.\build\lib\phishpedia\src\adv_attack\attack\DeepFool.py:2:1: F401 'torch.nn' imported but unused
+.\build\lib\phishpedia\src\adv_attack\attack\DeepFool.py:3:1: F401 'torch.nn.functional as F' imported but unused
+.\build\lib\phishpedia\src\adv_attack\attack\DeepFool.py:4:1: F401 'torch.optim' imported but unused
+.\build\lib\phishpedia\src\adv_attack\attack\DeepFool.py:10:1: E302 expected 2 blank lines, found 1
+.\build\lib\phishpedia\src\adv_attack\attack\DeepFool.py:10:48: E741 ambiguous variable name 'I'
+.\build\lib\phishpedia\src\adv_attack\attack\DeepFool.py:10:80: E501 line too long (109 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\DeepFool.py:34:5: F841 local variable 'fs_list' is assigned to but never used
+.\build\lib\phishpedia\src\adv_attack\attack\DeepFool.py:43:48: E261 at least two spaces before inline comment
+.\build\lib\phishpedia\src\adv_attack\attack\DeepFool.py:43:80: E501 line too long (92 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\DeepFool.py:56:53: E261 at least two spaces before inline comment
+.\build\lib\phishpedia\src\adv_attack\attack\DeepFool.py:56:80: E501 line too long (97 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\DeepFool.py:71:18: E222 multiple spaces after operator
+.\build\lib\phishpedia\src\adv_attack\attack\DeepFool.py:86:1: W391 blank line at end of file
+.\build\lib\phishpedia\src\adv_attack\attack\FGSM.py:2:1: F401 'torch.nn' imported but unused
+.\build\lib\phishpedia\src\adv_attack\attack\FGSM.py:3:1: F401 'torch.nn.functional as F' imported but unused
+.\build\lib\phishpedia\src\adv_attack\attack\FGSM.py:4:1: F401 'torch.optim' imported but unused
+.\build\lib\phishpedia\src\adv_attack\attack\FGSM.py:7:1: F401 'numpy as np' imported but unused
+.\build\lib\phishpedia\src\adv_attack\attack\FGSM.py:10:1: E302 expected 2 blank lines, found 1
+.\build\lib\phishpedia\src\adv_attack\attack\FGSM.py:10:80: E501 line too long (106 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:2:1: F401 'torch.nn' imported but unused
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:3:1: F401 'torch.nn.functional as F' imported but unused
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:4:1: F401 'torch.optim' imported but unused
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:7:1: F401 'numpy as np' imported but unused
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:10:1: E302 expected 2 blank lines, found 1
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:12:80: E501 line too long (85 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:32:1: E303 too many blank lines (3)
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:40:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:56:80: E501 line too long (87 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:79:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:84:80: E501 line too long (116 > 79 characters)
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:105:1: W391 blank line at end of file
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\__init__.py:1:1: F401 '.datasets' imported but unused
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:12:80: E501 line too long (87 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:36:80: E501 line too long (83 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:40:80: E501 line too long (91 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:62:80: E501 line too long (87 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:78:80: E501 line too long (83 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:80:80: E501 line too long (86 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:94:80: E501 line too long (88 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:98:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:114:13: F841 local variable 'basename' is assigned to but never used
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:139:80: E501 line too long (86 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:148:80: E501 line too long (85 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:151:80: E501 line too long (84 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:153:80: E501 line too long (84 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:173:80: E501 line too long (81 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:179:80: E501 line too long (89 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:222:80: E501 line too long (92 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:237:80: E501 line too long (81 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:249:34: E201 whitespace after '('
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:249:77: E202 whitespace before ')'
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:249:80: E501 line too long (91 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:286:80: E501 line too long (87 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:344:39: E741 ambiguous variable name 'l'
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:344:80: E501 line too long (83 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:358:80: E501 line too long (84 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:431:80: E501 line too long (86 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:441:80: E501 line too long (87 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:455:80: E501 line too long (84 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:461:80: E501 line too long (81 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:467:80: E501 line too long (86 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:22:80: E501 line too long (83 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:23:80: E501 line too long (81 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:43:80: E501 line too long (97 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:62:80: E501 line too long (88 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:74:80: E501 line too long (82 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:75:80: E501 line too long (95 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:82:24: E221 multiple spaces before operator
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:83:21: E221 multiple spaces before operator
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:84:25: E221 multiple spaces before operator
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:85:25: E221 multiple spaces before operator
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:90:80: E501 line too long (97 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:106:80: E501 line too long (85 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:110:80: E501 line too long (87 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:112:80: E501 line too long (83 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:117:80: E501 line too long (81 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:135:80: E501 line too long (81 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:136:80: E501 line too long (97 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:138:80: E501 line too long (95 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:165:80: E501 line too long (88 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:168:80: E501 line too long (100 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:176:80: E501 line too long (82 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:1:1: F401 'math' imported but unused
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:6:1: F403 'from detectron2.modeling.backbone.build import *' used; unable to detect undefined names
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:7:1: F403 'from detectron2.modeling.backbone.fpn import *' used; unable to detect undefined names
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:9:1: F403 'from detectron2.modeling.backbone.resnet import *' used; unable to detect undefined names
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:11:1: F401 'detectron2.config.get_cfg' imported but unused
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:12:1: F401 'detectron2.modeling.build_model' imported but unused
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:24:1: F811 redefinition of unused 'nn' from line 4
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:39:80: E501 line too long (101 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:47:80: E501 line too long (84 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:90:80: E501 line too long (82 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:149:80: E501 line too long (103 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:181:80: E501 line too long (84 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:250:80: E501 line too long (87 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:296:80: E501 line too long (88 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:366:2: F405 'BACKBONE_REGISTRY' may be undefined, or defined from star imports: detectron2.modeling.backbone.build, detectron2.modeling.backbone.fpn, detectron2.modeling.backbone.resnet
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:398:80: E501 line too long (87 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:409:80: E501 line too long (94 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:413:80: E501 line too long (89 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:414:80: E501 line too long (83 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:420:80: E501 line too long (91 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:424:80: E501 line too long (81 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:449:18: F405 'ResNet' may be undefined, or defined from star imports: detectron2.modeling.backbone.build, detectron2.modeling.backbone.fpn, detectron2.modeling.backbone.resnet
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:454:12: F405 'ResNet' may be undefined, or defined from star imports: detectron2.modeling.backbone.build, detectron2.modeling.backbone.fpn, detectron2.modeling.backbone.resnet
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:457:2: F405 'BACKBONE_REGISTRY' may be undefined, or defined from star imports: detectron2.modeling.backbone.build, detectron2.modeling.backbone.fpn, detectron2.modeling.backbone.resnet
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:463:80: E501 line too long (86 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:468:16: F405 'FPN' may be undefined, or defined from star imports: detectron2.modeling.backbone.build, detectron2.modeling.backbone.fpn, detectron2.modeling.backbone.resnet
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:477:1: W391 blank line at end of file
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:35:80: E501 line too long (82 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:64:80: E501 line too long (88 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:68:80: E501 line too long (81 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:152:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:188:80: E501 line too long (85 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:207:80: E501 line too long (88 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\eval.py:16:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\detectron2_pedia\eval.py:17:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\detectron2_pedia\eval.py:33:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\detectron2_pedia\eval.py:35:1: W391 blank line at end of file
+.\build\lib\phishpedia\src\detectron2_pedia\inference.py:1:1: F401 'os' imported but unused
+.\build\lib\phishpedia\src\detectron2_pedia\inference.py:2:1: F401 'phishpedia.src.detectron2_pedia.detectron2_1' imported but unused
+.\build\lib\phishpedia\src\detectron2_pedia\inference.py:64:80: E501 line too long (94 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\inference.py:65:80: E501 line too long (131 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\inference.py:72:80: E501 line too long (93 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\inference.py:77:80: E501 line too long (106 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\inference.py:79:80: E501 line too long (106 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\run_DAG.py:4:1: F401 'detectron2.model_zoo' imported but unused
+.\build\lib\phishpedia\src\detectron2_pedia\run_DAG.py:7:1: F403 'from phishpedia.src.detectron2_pedia.detectron2_1.register_backbone import *' used; unable to detect undefined names
+.\build\lib\phishpedia\src\detectron2_pedia\run_DAG.py:7:1: F401 'phishpedia.src.detectron2_pedia.detectron2_1.register_backbone.*' imported but unused
+.\build\lib\phishpedia\src\detectron2_pedia\run_DAG.py:7:77: E261 at least two spaces before inline comment
+.\build\lib\phishpedia\src\detectron2_pedia\run_DAG.py:7:80: E501 line too long (111 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\run_DAG.py:22:5: F841 local variable 'coco_instances_results' is assigned to but never used
+.\build\lib\phishpedia\src\detectron2_pedia\run_DAG.py:23:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\run_DAG.py:34:80: E501 line too long (86 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\train_net.py:8:80: E501 line too long (83 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\train_net.py:13:80: E501 line too long (82 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\train_net.py:37:1: F403 'from phishpedia.src.detectron2_pedia.detectron2_1.register_backbone import *' used; unable to detect undefined names
+.\build\lib\phishpedia\src\detectron2_pedia\train_net.py:37:1: F401 'phishpedia.src.detectron2_pedia.detectron2_1.register_backbone.*' imported but unused
+.\build\lib\phishpedia\src\detectron2_pedia\train_net.py:38:1: F811 redefinition of unused 'os' from line 16
+.\build\lib\phishpedia\src\detectron2_pedia\train_net.py:48:80: E501 line too long (93 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\train_net.py:49:80: E501 line too long (81 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\train_net.py:63:80: E501 line too long (86 > 79 characters)
+.\build\lib\phishpedia\src\detectron2_pedia\train_net.py:112:5: F841 local variable 'config' is assigned to but never used
+.\build\lib\phishpedia\src\detectron2_pedia\train_net.py:134:80: E501 line too long (86 > 79 characters)
+.\build\lib\phishpedia\src\pipeline_eval.py:5:1: F403 'from phishpedia.src.siamese import *' used; unable to detect undefined names
+.\build\lib\phishpedia\src\pipeline_eval.py:6:1: F403 'from phishpedia.src.detectron2_pedia.inference import *' used; unable to detect undefined names
+.\build\lib\phishpedia\src\pipeline_eval.py:36:80: E501 line too long (102 > 79 characters)
+.\build\lib\phishpedia\src\pipeline_eval.py:40:80: E501 line too long (100 > 79 characters)
+.\build\lib\phishpedia\src\pipeline_eval.py:41:13: E722 do not use bare 'except'
+.\build\lib\phishpedia\src\pipeline_eval.py:46:31: F405 'pred_rcnn' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\build\lib\phishpedia\src\pipeline_eval.py:58:33: F405 'phishpedia_classifier_logo' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\build\lib\phishpedia\src\pipeline_eval.py:58:80: E501 line too long (114 > 79 characters)
+.\build\lib\phishpedia\src\pipeline_eval.py:60:80: E501 line too long (89 > 79 characters)
+.\build\lib\phishpedia\src\pipeline_eval.py:61:80: E501 line too long (89 > 79 characters)
+.\build\lib\phishpedia\src\pipeline_eval.py:79:21: F405 'brand_converter' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\build\lib\phishpedia\src\pipeline_eval.py:81:21: F405 'brand_converter' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\build\lib\phishpedia\src\pipeline_eval.py:81:80: E501 line too long (121 > 79 characters)
+.\build\lib\phishpedia\src\pipeline_eval.py:85:80: E501 line too long (94 > 79 characters)
+.\build\lib\phishpedia\src\pipeline_eval.py:91:9: E722 do not use bare 'except'
+.\build\lib\phishpedia\src\pipeline_eval.py:98:80: E501 line too long (90 > 79 characters)
+.\build\lib\phishpedia\src\pipeline_eval.py:100:80: E501 line too long (83 > 79 characters)
+.\build\lib\phishpedia\src\pipeline_eval.py:107:80: E501 line too long (82 > 79 characters)
+.\build\lib\phishpedia\src\pipeline_eval.py:115:17: F405 'config_rcnn' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\build\lib\phishpedia\src\pipeline_eval.py:118:51: F405 'phishpedia_config' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\build\lib\phishpedia\src\pipeline_eval.py:118:80: E501 line too long (84 > 79 characters)
+.\build\lib\phishpedia\src\pipeline_eval.py:119:80: E501 line too long (126 > 79 characters)
+.\build\lib\phishpedia\src\pipeline_eval.py:120:80: E501 line too long (123 > 79 characters)
+.\build\lib\phishpedia\src\siamese.py:12:1: E302 expected 2 blank lines, found 1
+.\build\lib\phishpedia\src\siamese.py:12:34: E231 missing whitespace after ':'
+.\build\lib\phishpedia\src\siamese.py:12:52: E231 missing whitespace after ':'
+.\build\lib\phishpedia\src\siamese.py:12:73: E231 missing whitespace after ':'
+.\build\lib\phishpedia\src\siamese.py:12:80: E501 line too long (95 > 79 characters)
+.\build\lib\phishpedia\src\siamese.py:23:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\siamese.py:34:29: E225 missing whitespace around operator
+.\build\lib\phishpedia\src\siamese.py:35:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\siamese.py:43:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\siamese.py:45:35: E261 at least two spaces before inline comment
+.\build\lib\phishpedia\src\siamese.py:48:80: E501 line too long (134 > 79 characters)
+.\build\lib\phishpedia\src\siamese.py:49:80: E501 line too long (103 > 79 characters)
+.\build\lib\phishpedia\src\siamese.py:50:80: E501 line too long (115 > 79 characters)
+.\build\lib\phishpedia\src\siamese.py:50:90: E261 at least two spaces before inline comment
+.\build\lib\phishpedia\src\siamese.py:52:80: E501 line too long (104 > 79 characters)
+.\build\lib\phishpedia\src\siamese.py:52:105: W291 trailing whitespace
+.\build\lib\phishpedia\src\siamese.py:53:80: E501 line too long (85 > 79 characters)
+.\build\lib\phishpedia\src\siamese.py:54:80: E501 line too long (92 > 79 characters)
+.\build\lib\phishpedia\src\siamese.py:55:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\siamese.py:91:27: E128 continuation line under-indented for visual indent
+.\build\lib\phishpedia\src\siamese.py:92:27: E128 continuation line under-indented for visual indent
+.\build\lib\phishpedia\src\siamese.py:92:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\siamese.py:93:27: E128 continuation line under-indented for visual indent
+.\build\lib\phishpedia\src\siamese.py:94:27: E128 continuation line under-indented for visual indent
+.\build\lib\phishpedia\src\siamese.py:113:80: E501 line too long (85 > 79 characters)
+.\build\lib\phishpedia\src\siamese.py:120:80: E501 line too long (92 > 79 characters)
+.\build\lib\phishpedia\src\siamese.py:121:69: E128 continuation line under-indented for visual indent
+.\build\lib\phishpedia\src\siamese.py:121:80: E501 line too long (99 > 79 characters)
+.\build\lib\phishpedia\src\siamese.py:122:69: E128 continuation line under-indented for visual indent
+.\build\lib\phishpedia\src\siamese.py:122:80: E501 line too long (109 > 79 characters)
+.\build\lib\phishpedia\src\siamese.py:127:80: E501 line too long (113 > 79 characters)
+.\build\lib\phishpedia\src\siamese.py:129:80: E501 line too long (97 > 79 characters)
+.\build\lib\phishpedia\src\siamese.py:130:80: E501 line too long (147 > 79 characters)
+.\build\lib\phishpedia\src\siamese.py:141:1: W391 blank line at end of file
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:6:1: F401 'torch.nn' imported but unused
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:9:1: F401 'collections.OrderedDict' imported but unused
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:10:80: E501 line too long (84 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:11:1: F811 redefinition of unused 'plt' from line 5
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:45:5: E266 too many leading '#' for block comment
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:49:80: E501 line too long (96 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:53:5: E266 too many leading '#' for block comment
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:68:80: E501 line too long (106 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:73:80: E501 line too long (120 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:93:5: E266 too many leading '#' for block comment
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:95:80: E501 line too long (105 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:97:5: E266 too many leading '#' for block comment
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:98:80: E501 line too long (111 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:103:5: E266 too many leading '#' for block comment
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:110:80: E501 line too long (101 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:117:9: E266 too many leading '#' for block comment
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:117:80: E501 line too long (145 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:121:9: E266 too many leading '#' for block comment
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:127:9: E266 too many leading '#' for block comment
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:129:80: E501 line too long (85 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:130:80: E501 line too long (98 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:131:80: E501 line too long (106 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:139:9: E266 too many leading '#' for block comment
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:143:80: E501 line too long (87 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:154:1: W391 blank line at end of file
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\__init__.py:14:1: W391 blank line at end of file
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:29:45: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:29:80: E501 line too long (108 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:31:45: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:31:80: E501 line too long (99 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:33:45: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:33:80: E501 line too long (87 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:35:45: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:35:80: E501 line too long (94 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:37:45: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:37:80: E501 line too long (107 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:39:80: E501 line too long (92 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:40:45: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:40:80: E501 line too long (106 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:41:45: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:41:80: E501 line too long (90 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:43:45: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:43:80: E501 line too long (100 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:44:45: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:46:45: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:46:80: E501 line too long (87 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:49:45: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:51:45: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:51:80: E501 line too long (117 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:53:45: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:53:80: E501 line too long (116 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:55:45: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:55:80: E501 line too long (104 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:56:45: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:56:80: E501 line too long (101 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:62:80: E501 line too long (88 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:70:80: E501 line too long (89 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:84:80: E501 line too long (90 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_hyperrule.py:27:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\__init__.py:14:1: W391 blank line at end of file
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:4:1: F401 'numpy as np' imported but unused
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:7:1: E302 expected 2 blank lines, found 1
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:8:80: E501 line too long (90 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:9:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:25:13: F402 import 'data' from line 1 shadowed by loop variable
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:33:24: E225 missing whitespace around operator
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:41:80: E501 line too long (83 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:42:80: E501 line too long (106 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:52:27: W292 no newline at end of file
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:4:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:5:80: E501 line too long (89 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:12:1: E302 expected 2 blank lines, found 1
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:33:1: E302 expected 2 blank lines, found 1
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:35:5: F841 local variable 'fig' is assigned to but never used
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:38:80: E501 line too long (86 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:42:80: E501 line too long (86 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:46:80: E501 line too long (86 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:50:80: E501 line too long (86 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:54:80: E501 line too long (86 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:58:80: E501 line too long (86 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:62:80: E501 line too long (86 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:66:80: E501 line too long (86 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:70:80: E501 line too long (86 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:87:80: E501 line too long (120 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:87:103: E261 at least two spaces before inline comment
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:88:9: F841 local variable 'img_classes' is assigned to but never used
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:88:80: E501 line too long (104 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:88:93: E261 at least two spaces before inline comment
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:92:80: E501 line too long (82 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:98:80: E501 line too long (140 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:99:80: E501 line too long (82 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:106:80: E501 line too long (186 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:108:80: E501 line too long (93 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:116:38: E261 at least two spaces before inline comment
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:119:31: E261 at least two spaces before inline comment
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:123:80: E501 line too long (96 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:128:1: E303 too many blank lines (3)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:130:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:138:27: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:138:80: E501 line too long (91 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:139:27: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:139:80: E501 line too long (92 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:140:27: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:141:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:142:80: E501 line too long (110 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:143:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:144:80: E501 line too long (94 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:145:80: E501 line too long (104 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:146:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:150:21: E261 at least two spaces before inline comment
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:152:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:17:1: E265 block comment should start with '# '
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:20:1: F403 'from collections import *' used; unable to detect undefined names
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:21:1: F403 'from functools import *' used; unable to detect undefined names
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:39:25: F405 'defaultdict' may be undefined, or defined from star imports: collections, functools
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:39:37: F405 'partial' may be undefined, or defined from star imports: collections, functools
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:39:45: F405 'deque' may be undefined, or defined from star imports: collections, functools
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:44:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:60:80: E501 line too long (88 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:62:80: E501 line too long (95 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:65:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:73:52: F405 'preprocess' may be undefined, or defined from star imports: collections, functools
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:76:13: E117 over-indented
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:108:9: E741 ambiguous variable name 'l'
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:110:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:112:42: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:124:80: E501 line too long (105 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:148:80: E501 line too long (105 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:32:41: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:37:38: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:42:38: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:55:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:69:80: E501 line too long (85 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:96:80: E501 line too long (83 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:97:80: E501 line too long (83 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:98:80: E501 line too long (83 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:99:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:100:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:101:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:113:80: E501 line too long (84 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:120:80: E501 line too long (94 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:129:80: E501 line too long (92 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:130:80: E501 line too long (136 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:133:80: E501 line too long (104 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:134:80: E501 line too long (137 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:137:80: E501 line too long (105 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:138:80: E501 line too long (139 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:141:80: E501 line too long (106 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:142:80: E501 line too long (139 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:152:80: E501 line too long (82 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:162:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:163:21: E231 missing whitespace after ','
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:163:23: E231 missing whitespace after ','
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:167:80: E501 line too long (140 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:168:80: E501 line too long (82 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:174:80: E501 line too long (125 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:175:80: E501 line too long (86 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:185:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:186:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:187:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:188:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:191:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:192:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:193:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:194:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:17:1: E265 block comment should start with '# '
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:26:1: F401 'phishpedia.src.siamese_pedia.siamese_retrain.bit_pytorch.fewshot as fs' imported but unused
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:28:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:30:80: E501 line too long (82 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:31:80: E501 line too long (89 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:34:35: E225 missing whitespace around operator
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:38:80: E501 line too long (97 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:70:33: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:71:33: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:71:80: E501 line too long (84 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:72:33: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:73:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:76:80: E501 line too long (82 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:78:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:80:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:81:45: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:81:80: E501 line too long (110 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:82:45: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:82:80: E501 line too long (110 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:83:45: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:84:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:85:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:86:80: E501 line too long (95 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:87:80: E501 line too long (96 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:91:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:105:80: E501 line too long (93 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:106:80: E501 line too long (91 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:109:80: E501 line too long (98 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:110:80: E501 line too long (114 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:152:22: E741 ambiguous variable name 'l'
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:161:48: E741 ambiguous variable name 'l'
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:164:1: E302 expected 2 blank lines, found 1
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:178:1: E302 expected 2 blank lines, found 1
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:191:80: E501 line too long (93 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:196:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:199:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:209:80: E501 line too long (89 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:219:80: E501 line too long (80 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:225:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:231:23: E231 missing whitespace after ','
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:277:80: E501 line too long (85 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:277:86: W291 trailing whitespace
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:287:1: W293 blank line contains whitespace
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:294:28: E203 whitespace before ':'
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:302:20: E203 whitespace before ':'
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:306:5: E303 too many blank lines (2)
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:312:45: E127 continuation line over-indented for visual indent
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:312:80: E501 line too long (99 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\utils.py:1:1: F401 'PIL.Image' imported but unused
+.\build\lib\phishpedia\src\siamese_pedia\utils.py:4:1: E302 expected 2 blank lines, found 1
+.\build\lib\phishpedia\src\siamese_pedia\utils.py:14:35: E262 inline comment should start with '# '
+.\build\lib\phishpedia\src\siamese_pedia\utils.py:17:76: E261 at least two spaces before inline comment
+.\build\lib\phishpedia\src\siamese_pedia\utils.py:17:80: E501 line too long (110 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\utils.py:21:76: W291 trailing whitespace
+.\build\lib\phishpedia\src\siamese_pedia\utils.py:22:36: W291 trailing whitespace
+.\build\lib\phishpedia\src\siamese_pedia\utils.py:24:1: E302 expected 2 blank lines, found 1
+.\build\lib\phishpedia\src\siamese_pedia\utils.py:48:80: E501 line too long (102 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\utils.py:78:80: E501 line too long (100 > 79 characters)
+.\build\lib\phishpedia\src\siamese_pedia\utils.py:123:26: W292 no newline at end of file
+.\build\lib\phishpedia\src\util\chrome.py:15:62: E231 missing whitespace after ':'
+.\build\lib\phishpedia\src\util\chrome.py:21:10: E275 missing whitespace after keyword
+.\build\lib\phishpedia\src\util\chrome.py:21:80: E501 line too long (81 > 79 characters)
+.\build\lib\phishpedia\src\util\chrome.py:22:80: E501 line too long (91 > 79 characters)
+.\build\lib\phishpedia\src\util\chrome.py:23:80: E501 line too long (86 > 79 characters)
+.\build\lib\phishpedia\src\util\chrome.py:26:17: E225 missing whitespace around operator
+.\build\lib\phishpedia\src\util\chrome.py:28:80: E501 line too long (90 > 79 characters)
+.\build\lib\phishpedia\src\util\chrome.py:37:1: W391 blank line at end of file
+.\phishpedia\__init__.py:4:1: F403 'from .phishpedia_config import *' used; unable to detect undefined names
+.\phishpedia\__init__.py:4:1: F401 '.phishpedia_config.*' imported but unused
+.\phishpedia\__init__.py:5:1: F403 'from .phishpedia_main import *' used; unable to detect undefined names
+.\phishpedia\__init__.py:5:1: F401 '.phishpedia_main.*' imported but unused
+.\phishpedia\__init__.py:5:31: W292 no newline at end of file
+.\phishpedia\phishpedia_config.py:2:1: F403 'from phishpedia.src.siamese import *' used; unable to detect undefined names
+.\phishpedia\phishpedia_config.py:3:1: F403 'from phishpedia.src.detectron2_pedia.inference import *' used; unable to detect undefined names
+.\phishpedia\phishpedia_config.py:4:1: F401 'phishpedia' imported but unused
+.\phishpedia\phishpedia_config.py:13:19: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\phishpedia\phishpedia_config.py:13:32: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\phishpedia\phishpedia_config.py:13:80: E501 line too long (83 > 79 characters)
+.\phishpedia\phishpedia_config.py:19:66: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\phishpedia\phishpedia_config.py:20:74: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\phishpedia\phishpedia_config.py:20:80: E501 line too long (80 > 79 characters)
+.\phishpedia\phishpedia_config.py:22:17: F405 'config_rcnn' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\phishpedia\phishpedia_config.py:22:80: E501 line too long (91 > 79 characters)
+.\phishpedia\phishpedia_config.py:29:22: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\phishpedia\phishpedia_config.py:30:21: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\phishpedia\phishpedia_config.py:32:34: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\phishpedia\phishpedia_config.py:32:80: E501 line too long (80 > 79 characters)
+.\phishpedia\phishpedia_config.py:34:53: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\phishpedia\phishpedia_config.py:34:80: E501 line too long (115 > 79 characters)
+.\phishpedia\phishpedia_config.py:34:107: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\phishpedia\phishpedia_config.py:35:9: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\phishpedia\phishpedia_config.py:36:80: E501 line too long (105 > 79 characters)
+.\phishpedia\phishpedia_config.py:38:45: F405 'phishpedia_config' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\phishpedia\phishpedia_config.py:39:80: E501 line too long (100 > 79 characters)
+.\phishpedia\phishpedia_config.py:40:80: E501 line too long (123 > 79 characters)
+.\phishpedia\phishpedia_config.py:40:116: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\phishpedia\phishpedia_config.py:41:80: E501 line too long (112 > 79 characters)
+.\phishpedia\phishpedia_config.py:41:105: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\phishpedia\phishpedia_config.py:44:80: F405 'os' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\phishpedia\phishpedia_config.py:44:80: E501 line too long (86 > 79 characters)
+.\phishpedia\phishpedia_config.py:46:80: E501 line too long (90 > 79 characters)
+.\phishpedia\phishpedia_config.py:50:1: W391 blank line at end of file
+.\phishpedia\phishpedia_main.py:1:1: F403 'from .phishpedia_config import *' used; unable to detect undefined names
+.\phishpedia\phishpedia_main.py:5:1: F403 'from .src.util.chrome import *' used; unable to detect undefined names
+.\phishpedia\phishpedia_main.py:7:35: E225 missing whitespace around operator
+.\phishpedia\phishpedia_main.py:9:80: E501 line too long (117 > 79 characters)
+.\phishpedia\phishpedia_main.py:11:80: E501 line too long (80 > 79 characters)
+.\phishpedia\phishpedia_main.py:15:80: E501 line too long (117 > 79 characters)
+.\phishpedia\phishpedia_main.py:18:80: E501 line too long (112 > 79 characters)
+.\phishpedia\phishpedia_main.py:40:5: E266 too many leading '#' for block comment
+.\phishpedia\phishpedia_main.py:40:80: E501 line too long (97 > 79 characters)
+.\phishpedia\phishpedia_main.py:41:27: F405 'pred_rcnn' may be undefined, or defined from star imports: .phishpedia_config, .src.util.chrome
+.\phishpedia\phishpedia_main.py:44:15: F405 'vis' may be undefined, or defined from star imports: .phishpedia_config, .src.util.chrome
+.\phishpedia\phishpedia_main.py:53:5: E303 too many blank lines (2)
+.\phishpedia\phishpedia_main.py:53:5: E266 too many leading '#' for block comment
+.\phishpedia\phishpedia_main.py:53:80: E501 line too long (99 > 79 characters)
+.\phishpedia\phishpedia_main.py:54:48: F405 'phishpedia_classifier_logo' may be undefined, or defined from star imports: .phishpedia_config, .src.util.chrome
+.\phishpedia\phishpedia_main.py:54:80: E501 line too long (96 > 79 characters)
+.\phishpedia\phishpedia_main.py:55:70: E128 continuation line under-indented for visual indent
+.\phishpedia\phishpedia_main.py:55:80: E501 line too long (101 > 79 characters)
+.\phishpedia\phishpedia_main.py:56:70: E128 continuation line under-indented for visual indent
+.\phishpedia\phishpedia_main.py:56:80: E501 line too long (89 > 79 characters)
+.\phishpedia\phishpedia_main.py:57:70: E128 continuation line under-indented for visual indent
+.\phishpedia\phishpedia_main.py:57:80: E501 line too long (95 > 79 characters)
+.\phishpedia\phishpedia_main.py:58:70: E128 continuation line under-indented for visual indent
+.\phishpedia\phishpedia_main.py:58:80: E501 line too long (95 > 79 characters)
+.\phishpedia\phishpedia_main.py:59:70: E128 continuation line under-indented for visual indent
+.\phishpedia\phishpedia_main.py:60:70: E128 continuation line under-indented for visual indent
+.\phishpedia\phishpedia_main.py:60:80: E501 line too long (95 > 79 characters)
+.\phishpedia\phishpedia_main.py:61:70: E128 continuation line under-indented for visual indent
+.\phishpedia\phishpedia_main.py:61:80: E501 line too long (85 > 79 characters)
+.\phishpedia\phishpedia_main.py:70:9: F405 'cv2' may be undefined, or defined from star imports: .phishpedia_config, .src.util.chrome
+.\phishpedia\phishpedia_main.py:70:80: E501 line too long (99 > 79 characters)
+.\phishpedia\phishpedia_main.py:72:21: F405 'cv2' may be undefined, or defined from star imports: .phishpedia_config, .src.util.chrome
+.\phishpedia\phishpedia_main.py:77:80: E501 line too long (108 > 79 characters)
+.\phishpedia\phishpedia_main.py:91:17: F405 'tqdm' may be undefined, or defined from star imports: .phishpedia_config, .src.util.chrome
+.\phishpedia\phishpedia_main.py:94:69: E261 at least two spaces before inline comment
+.\phishpedia\phishpedia_main.py:94:80: E501 line too long (90 > 79 characters)
+.\phishpedia\phishpedia_main.py:107:9: E722 do not use bare 'except'
+.\phishpedia\phishpedia_main.py:110:80: E501 line too long (120 > 79 characters)
+.\phishpedia\phishpedia_main.py:111:80: E501 line too long (99 > 79 characters)
+.\phishpedia\phishpedia_main.py:112:80: E501 line too long (105 > 79 characters)
+.\phishpedia\phishpedia_main.py:113:80: E501 line too long (107 > 79 characters)
+.\phishpedia\phishpedia_main.py:114:80: E501 line too long (101 > 79 characters)
+.\phishpedia\phishpedia_main.py:115:80: E501 line too long (101 > 79 characters)
+.\phishpedia\phishpedia_main.py:116:80: E501 line too long (111 > 79 characters)
+.\phishpedia\phishpedia_main.py:122:20: F405 'vt_scan' may be undefined, or defined from star imports: .phishpedia_config, .src.util.chrome
+.\phishpedia\phishpedia_main.py:123:39: F405 'vt_scan' may be undefined, or defined from star imports: .phishpedia_config, .src.util.chrome
+.\phishpedia\phishpedia_main.py:130:13: F841 local variable 'e' is assigned to but never used
+.\phishpedia\phishpedia_main.py:146:17: F405 'cv2' may be undefined, or defined from star imports: .phishpedia_config, .src.util.chrome
+.\phishpedia\phishpedia_main.py:155:80: E501 line too long (118 > 79 characters)
+.\phishpedia\phishpedia_main.py:156:80: E501 line too long (97 > 79 characters)
+.\phishpedia\phishpedia_main.py:157:80: E501 line too long (80 > 79 characters)
+.\phishpedia\phishpedia_main.py:163:80: E501 line too long (112 > 79 characters)
+.\phishpedia\phishpedia_main.py:178:80: E501 line too long (94 > 79 characters)
+.\phishpedia\phishpedia_main.py:186:80: E501 line too long (91 > 79 characters)
+.\phishpedia\phishpedia_main.py:192:80: E501 line too long (130 > 79 characters)
+.\phishpedia\phishpedia_main.py:193:80: E501 line too long (109 > 79 characters)
+.\phishpedia\phishpedia_main.py:194:80: E501 line too long (115 > 79 characters)
+.\phishpedia\phishpedia_main.py:195:80: E501 line too long (117 > 79 characters)
+.\phishpedia\phishpedia_main.py:196:80: E501 line too long (111 > 79 characters)
+.\phishpedia\phishpedia_main.py:197:80: E501 line too long (111 > 79 characters)
+.\phishpedia\phishpedia_main.py:198:80: E501 line too long (121 > 79 characters)
+.\phishpedia\phishpedia_main.py:200:80: E501 line too long (81 > 79 characters)
+.\phishpedia\phishpedia_main.py:221:80: E501 line too long (85 > 79 characters)
+.\phishpedia\phishpedia_main.py:235:1: W391 blank line at end of file
+.\phishpedia\src\adv_attack\attack\Attack.py:16:80: E501 line too long (91 > 79 characters)
+.\phishpedia\src\adv_attack\attack\Attack.py:31:1: W293 blank line contains whitespace
+.\phishpedia\src\adv_attack\attack\Attack.py:35:1: W293 blank line contains whitespace
+.\phishpedia\src\adv_attack\attack\Attack.py:46:59: W291 trailing whitespace
+.\phishpedia\src\adv_attack\attack\Attack.py:48:1: W293 blank line contains whitespace
+.\phishpedia\src\adv_attack\attack\Attack.py:52:80: E501 line too long (98 > 79 characters)
+.\phishpedia\src\adv_attack\attack\Attack.py:54:80: E501 line too long (109 > 79 characters)
+.\phishpedia\src\adv_attack\attack\Attack.py:62:80: E501 line too long (86 > 79 characters)
+.\phishpedia\src\adv_attack\attack\Attack.py:63:1: W293 blank line contains whitespace
+.\phishpedia\src\adv_attack\attack\Attack.py:68:80: E501 line too long (91 > 79 characters)
+.\phishpedia\src\adv_attack\attack\Attack.py:70:80: E501 line too long (87 > 79 characters)
+.\phishpedia\src\adv_attack\attack\Attack.py:71:1: W293 blank line contains whitespace
+.\phishpedia\src\adv_attack\attack\Attack.py:74:17: E741 ambiguous variable name 'I'
+.\phishpedia\src\adv_attack\attack\Attack.py:75:80: E501 line too long (87 > 79 characters)
+.\phishpedia\src\adv_attack\attack\Attack.py:76:1: W293 blank line contains whitespace
+.\phishpedia\src\adv_attack\attack\Attack.py:80:80: E501 line too long (91 > 79 characters)
+.\phishpedia\src\adv_attack\attack\Attack.py:82:80: E501 line too long (87 > 79 characters)
+.\phishpedia\src\adv_attack\attack\Attack.py:83:1: W293 blank line contains whitespace
+.\phishpedia\src\adv_attack\attack\Attack.py:85:80: E501 line too long (118 > 79 characters)
+.\phishpedia\src\adv_attack\attack\Attack.py:86:1: W293 blank line contains whitespace
+.\phishpedia\src\adv_attack\attack\Attack.py:87:1: W293 blank line contains whitespace
+.\phishpedia\src\adv_attack\attack\Attack.py:88:13: E303 too many blank lines (2)
+.\phishpedia\src\adv_attack\attack\Attack.py:98:18: E261 at least two spaces before inline comment
+.\phishpedia\src\adv_attack\attack\Attack.py:102:80: E501 line too long (86 > 79 characters)
+.\phishpedia\src\adv_attack\attack\Attack.py:103:80: E501 line too long (91 > 79 characters)
+.\phishpedia\src\adv_attack\attack\Attack.py:106:80: E501 line too long (85 > 79 characters)
+.\phishpedia\src\adv_attack\attack\Attack.py:108:80: E501 line too long (90 > 79 characters)
+.\phishpedia\src\adv_attack\attack\Attack.py:109:80: E501 line too long (90 > 79 characters)
+.\phishpedia\src\adv_attack\attack\Attack.py:123:1: W293 blank line contains whitespace
+.\phishpedia\src\adv_attack\attack\CWL2.py:6:80: E501 line too long (109 > 79 characters)
+.\phishpedia\src\adv_attack\attack\CWL2.py:6:108: E203 whitespace before ':'
+.\phishpedia\src\adv_attack\attack\CWL2.py:8:80: E501 line too long (98 > 79 characters)
+.\phishpedia\src\adv_attack\attack\CWL2.py:21:1: W293 blank line contains whitespace
+.\phishpedia\src\adv_attack\attack\CWL2.py:23:13: E203 whitespace before ':'
+.\phishpedia\src\adv_attack\attack\CWL2.py:24:1: W293 blank line contains whitespace
+.\phishpedia\src\adv_attack\attack\CWL2.py:30:80: E501 line too long (116 > 79 characters)
+.\phishpedia\src\adv_attack\attack\CWL2.py:31:1: W293 blank line contains whitespace
+.\phishpedia\src\adv_attack\attack\CWL2.py:32:58: W291 trailing whitespace
+.\phishpedia\src\adv_attack\attack\CWL2.py:35:1: W293 blank line contains whitespace
+.\phishpedia\src\adv_attack\attack\CWL2.py:36:5: E303 too many blank lines (2)
+.\phishpedia\src\adv_attack\attack\CWL2.py:38:50: E261 at least two spaces before inline comment
+.\phishpedia\src\adv_attack\attack\CWL2.py:38:80: E501 line too long (83 > 79 characters)
+.\phishpedia\src\adv_attack\attack\CWL2.py:40:32: E203 whitespace before ':'
+.\phishpedia\src\adv_attack\attack\CWL2.py:42:34: W291 trailing whitespace
+.\phishpedia\src\adv_attack\attack\CWL2.py:44:54: E261 at least two spaces before inline comment
+.\phishpedia\src\adv_attack\attack\CWL2.py:45:34: E261 at least two spaces before inline comment
+.\phishpedia\src\adv_attack\attack\CWL2.py:46:1: W293 blank line contains whitespace
+.\phishpedia\src\adv_attack\attack\CWL2.py:47:29: W291 trailing whitespace
+.\phishpedia\src\adv_attack\attack\CWL2.py:48:1: W293 blank line contains whitespace
+.\phishpedia\src\adv_attack\attack\CWL2.py:53:1: W293 blank line contains whitespace
+.\phishpedia\src\adv_attack\attack\CWL2.py:57:1: W293 blank line contains whitespace
+.\phishpedia\src\adv_attack\attack\CWL2.py:58:24: W291 trailing whitespace
+.\phishpedia\src\adv_attack\attack\CWL2.py:60:58: W291 trailing whitespace
+.\phishpedia\src\adv_attack\attack\CWL2.py:64:54: E225 missing whitespace around operator
+.\phishpedia\src\adv_attack\attack\CWL2.py:64:80: E501 line too long (87 > 79 characters)
+.\phishpedia\src\adv_attack\attack\CWL2.py:65:1: W293 blank line contains whitespace
+.\phishpedia\src\adv_attack\attack\CWL2.py:67:42: W291 trailing whitespace
+.\phishpedia\src\adv_attack\attack\CWL2.py:68:1: W293 blank line contains whitespace
+.\phishpedia\src\adv_attack\attack\CWL2.py:71:1: W391 blank line at end of file
+.\phishpedia\src\adv_attack\attack\DeepFool.py:2:1: F401 'torch.nn' imported but unused
+.\phishpedia\src\adv_attack\attack\DeepFool.py:3:1: F401 'torch.nn.functional as F' imported but unused
+.\phishpedia\src\adv_attack\attack\DeepFool.py:4:1: F401 'torch.optim' imported but unused
+.\phishpedia\src\adv_attack\attack\DeepFool.py:10:1: E302 expected 2 blank lines, found 1
+.\phishpedia\src\adv_attack\attack\DeepFool.py:10:48: E741 ambiguous variable name 'I'
+.\phishpedia\src\adv_attack\attack\DeepFool.py:10:80: E501 line too long (109 > 79 characters)
+.\phishpedia\src\adv_attack\attack\DeepFool.py:34:5: F841 local variable 'fs_list' is assigned to but never used
+.\phishpedia\src\adv_attack\attack\DeepFool.py:43:48: E261 at least two spaces before inline comment
+.\phishpedia\src\adv_attack\attack\DeepFool.py:43:80: E501 line too long (92 > 79 characters)
+.\phishpedia\src\adv_attack\attack\DeepFool.py:56:53: E261 at least two spaces before inline comment
+.\phishpedia\src\adv_attack\attack\DeepFool.py:56:80: E501 line too long (97 > 79 characters)
+.\phishpedia\src\adv_attack\attack\DeepFool.py:71:18: E222 multiple spaces after operator
+.\phishpedia\src\adv_attack\attack\DeepFool.py:86:1: W391 blank line at end of file
+.\phishpedia\src\adv_attack\attack\FGSM.py:2:1: F401 'torch.nn' imported but unused
+.\phishpedia\src\adv_attack\attack\FGSM.py:3:1: F401 'torch.nn.functional as F' imported but unused
+.\phishpedia\src\adv_attack\attack\FGSM.py:4:1: F401 'torch.optim' imported but unused
+.\phishpedia\src\adv_attack\attack\FGSM.py:7:1: F401 'numpy as np' imported but unused
+.\phishpedia\src\adv_attack\attack\FGSM.py:10:1: E302 expected 2 blank lines, found 1
+.\phishpedia\src\adv_attack\attack\FGSM.py:10:80: E501 line too long (106 > 79 characters)
+.\phishpedia\src\adv_attack\attack\JSMA.py:2:1: F401 'torch.nn' imported but unused
+.\phishpedia\src\adv_attack\attack\JSMA.py:3:1: F401 'torch.nn.functional as F' imported but unused
+.\phishpedia\src\adv_attack\attack\JSMA.py:4:1: F401 'torch.optim' imported but unused
+.\phishpedia\src\adv_attack\attack\JSMA.py:7:1: F401 'numpy as np' imported but unused
+.\phishpedia\src\adv_attack\attack\JSMA.py:10:1: E302 expected 2 blank lines, found 1
+.\phishpedia\src\adv_attack\attack\JSMA.py:12:80: E501 line too long (85 > 79 characters)
+.\phishpedia\src\adv_attack\attack\JSMA.py:32:1: E303 too many blank lines (3)
+.\phishpedia\src\adv_attack\attack\JSMA.py:40:1: W293 blank line contains whitespace
+.\phishpedia\src\adv_attack\attack\JSMA.py:56:80: E501 line too long (87 > 79 characters)
+.\phishpedia\src\adv_attack\attack\JSMA.py:79:1: W293 blank line contains whitespace
+.\phishpedia\src\adv_attack\attack\JSMA.py:84:80: E501 line too long (116 > 79 characters)
+.\phishpedia\src\adv_attack\attack\JSMA.py:105:1: W391 blank line at end of file
+.\phishpedia\src\detectron2_pedia\detectron2_1\__init__.py:1:1: F401 '.datasets' imported but unused
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:12:80: E501 line too long (87 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:36:80: E501 line too long (83 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:40:80: E501 line too long (91 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:62:80: E501 line too long (87 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:78:80: E501 line too long (83 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:80:80: E501 line too long (86 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:94:80: E501 line too long (88 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:98:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:114:13: F841 local variable 'basename' is assigned to but never used
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:139:80: E501 line too long (86 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:148:80: E501 line too long (85 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:151:80: E501 line too long (84 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:153:80: E501 line too long (84 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:173:80: E501 line too long (81 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:179:80: E501 line too long (89 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:222:80: E501 line too long (92 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:237:80: E501 line too long (81 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:249:34: E201 whitespace after '('
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:249:77: E202 whitespace before ')'
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:249:80: E501 line too long (91 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:286:80: E501 line too long (87 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:344:39: E741 ambiguous variable name 'l'
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:344:80: E501 line too long (83 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:358:80: E501 line too long (84 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:431:80: E501 line too long (86 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:441:80: E501 line too long (87 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:455:80: E501 line too long (84 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:461:80: E501 line too long (81 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:467:80: E501 line too long (86 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:22:80: E501 line too long (83 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:23:80: E501 line too long (81 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:43:80: E501 line too long (97 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:62:80: E501 line too long (88 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:74:80: E501 line too long (82 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:75:80: E501 line too long (95 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:82:24: E221 multiple spaces before operator
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:83:21: E221 multiple spaces before operator
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:84:25: E221 multiple spaces before operator
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:85:25: E221 multiple spaces before operator
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:90:80: E501 line too long (97 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:106:80: E501 line too long (85 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:110:80: E501 line too long (87 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:112:80: E501 line too long (83 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:117:80: E501 line too long (81 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:135:80: E501 line too long (81 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:136:80: E501 line too long (97 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:138:80: E501 line too long (95 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:165:80: E501 line too long (88 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:168:80: E501 line too long (100 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:176:80: E501 line too long (82 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:1:1: F401 'math' imported but unused
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:6:1: F403 'from detectron2.modeling.backbone.build import *' used; unable to detect undefined names
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:7:1: F403 'from detectron2.modeling.backbone.fpn import *' used; unable to detect undefined names
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:9:1: F403 'from detectron2.modeling.backbone.resnet import *' used; unable to detect undefined names
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:11:1: F401 'detectron2.config.get_cfg' imported but unused
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:12:1: F401 'detectron2.modeling.build_model' imported but unused
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:24:1: F811 redefinition of unused 'nn' from line 4
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:39:80: E501 line too long (101 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:47:80: E501 line too long (84 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:90:80: E501 line too long (82 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:149:80: E501 line too long (103 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:181:80: E501 line too long (84 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:250:80: E501 line too long (87 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:296:80: E501 line too long (88 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:366:2: F405 'BACKBONE_REGISTRY' may be undefined, or defined from star imports: detectron2.modeling.backbone.build, detectron2.modeling.backbone.fpn, detectron2.modeling.backbone.resnet
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:398:80: E501 line too long (87 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:409:80: E501 line too long (94 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:413:80: E501 line too long (89 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:414:80: E501 line too long (83 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:420:80: E501 line too long (91 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:424:80: E501 line too long (81 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:449:18: F405 'ResNet' may be undefined, or defined from star imports: detectron2.modeling.backbone.build, detectron2.modeling.backbone.fpn, detectron2.modeling.backbone.resnet
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:454:12: F405 'ResNet' may be undefined, or defined from star imports: detectron2.modeling.backbone.build, detectron2.modeling.backbone.fpn, detectron2.modeling.backbone.resnet
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:457:2: F405 'BACKBONE_REGISTRY' may be undefined, or defined from star imports: detectron2.modeling.backbone.build, detectron2.modeling.backbone.fpn, detectron2.modeling.backbone.resnet
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:463:80: E501 line too long (86 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:468:16: F405 'FPN' may be undefined, or defined from star imports: detectron2.modeling.backbone.build, detectron2.modeling.backbone.fpn, detectron2.modeling.backbone.resnet
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:477:1: W391 blank line at end of file
+.\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:35:80: E501 line too long (82 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:64:80: E501 line too long (88 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:68:80: E501 line too long (81 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:152:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:188:80: E501 line too long (85 > 79 characters)
+.\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:207:80: E501 line too long (88 > 79 characters)
+.\phishpedia\src\detectron2_pedia\eval.py:16:1: W293 blank line contains whitespace
+.\phishpedia\src\detectron2_pedia\eval.py:17:1: W293 blank line contains whitespace
+.\phishpedia\src\detectron2_pedia\eval.py:33:1: W293 blank line contains whitespace
+.\phishpedia\src\detectron2_pedia\eval.py:35:1: W391 blank line at end of file
+.\phishpedia\src\detectron2_pedia\inference.py:1:1: F401 'os' imported but unused
+.\phishpedia\src\detectron2_pedia\inference.py:2:1: F401 'phishpedia.src.detectron2_pedia.detectron2_1' imported but unused
+.\phishpedia\src\detectron2_pedia\inference.py:64:80: E501 line too long (94 > 79 characters)
+.\phishpedia\src\detectron2_pedia\inference.py:65:80: E501 line too long (131 > 79 characters)
+.\phishpedia\src\detectron2_pedia\inference.py:72:80: E501 line too long (93 > 79 characters)
+.\phishpedia\src\detectron2_pedia\inference.py:77:80: E501 line too long (106 > 79 characters)
+.\phishpedia\src\detectron2_pedia\inference.py:79:80: E501 line too long (106 > 79 characters)
+.\phishpedia\src\detectron2_pedia\run_DAG.py:4:1: F401 'detectron2.model_zoo' imported but unused
+.\phishpedia\src\detectron2_pedia\run_DAG.py:7:1: F403 'from phishpedia.src.detectron2_pedia.detectron2_1.register_backbone import *' used; unable to detect undefined names
+.\phishpedia\src\detectron2_pedia\run_DAG.py:7:1: F401 'phishpedia.src.detectron2_pedia.detectron2_1.register_backbone.*' imported but unused
+.\phishpedia\src\detectron2_pedia\run_DAG.py:7:77: E261 at least two spaces before inline comment
+.\phishpedia\src\detectron2_pedia\run_DAG.py:7:80: E501 line too long (111 > 79 characters)
+.\phishpedia\src\detectron2_pedia\run_DAG.py:22:5: F841 local variable 'coco_instances_results' is assigned to but never used
+.\phishpedia\src\detectron2_pedia\run_DAG.py:23:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\detectron2_pedia\run_DAG.py:34:80: E501 line too long (86 > 79 characters)
+.\phishpedia\src\detectron2_pedia\train_net.py:8:80: E501 line too long (83 > 79 characters)
+.\phishpedia\src\detectron2_pedia\train_net.py:13:80: E501 line too long (82 > 79 characters)
+.\phishpedia\src\detectron2_pedia\train_net.py:37:1: F403 'from phishpedia.src.detectron2_pedia.detectron2_1.register_backbone import *' used; unable to detect undefined names
+.\phishpedia\src\detectron2_pedia\train_net.py:37:1: F401 'phishpedia.src.detectron2_pedia.detectron2_1.register_backbone.*' imported but unused
+.\phishpedia\src\detectron2_pedia\train_net.py:38:1: F811 redefinition of unused 'os' from line 16
+.\phishpedia\src\detectron2_pedia\train_net.py:48:80: E501 line too long (93 > 79 characters)
+.\phishpedia\src\detectron2_pedia\train_net.py:49:80: E501 line too long (81 > 79 characters)
+.\phishpedia\src\detectron2_pedia\train_net.py:63:80: E501 line too long (86 > 79 characters)
+.\phishpedia\src\detectron2_pedia\train_net.py:112:5: F841 local variable 'config' is assigned to but never used
+.\phishpedia\src\detectron2_pedia\train_net.py:134:80: E501 line too long (86 > 79 characters)
+.\phishpedia\src\pipeline_eval.py:5:1: F403 'from phishpedia.src.siamese import *' used; unable to detect undefined names
+.\phishpedia\src\pipeline_eval.py:6:1: F403 'from phishpedia.src.detectron2_pedia.inference import *' used; unable to detect undefined names
+.\phishpedia\src\pipeline_eval.py:36:80: E501 line too long (102 > 79 characters)
+.\phishpedia\src\pipeline_eval.py:40:80: E501 line too long (100 > 79 characters)
+.\phishpedia\src\pipeline_eval.py:41:13: E722 do not use bare 'except'
+.\phishpedia\src\pipeline_eval.py:46:31: F405 'pred_rcnn' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\phishpedia\src\pipeline_eval.py:58:33: F405 'phishpedia_classifier_logo' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\phishpedia\src\pipeline_eval.py:58:80: E501 line too long (114 > 79 characters)
+.\phishpedia\src\pipeline_eval.py:60:80: E501 line too long (89 > 79 characters)
+.\phishpedia\src\pipeline_eval.py:61:80: E501 line too long (89 > 79 characters)
+.\phishpedia\src\pipeline_eval.py:79:21: F405 'brand_converter' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\phishpedia\src\pipeline_eval.py:81:21: F405 'brand_converter' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\phishpedia\src\pipeline_eval.py:81:80: E501 line too long (121 > 79 characters)
+.\phishpedia\src\pipeline_eval.py:85:80: E501 line too long (94 > 79 characters)
+.\phishpedia\src\pipeline_eval.py:91:9: E722 do not use bare 'except'
+.\phishpedia\src\pipeline_eval.py:98:80: E501 line too long (90 > 79 characters)
+.\phishpedia\src\pipeline_eval.py:100:80: E501 line too long (83 > 79 characters)
+.\phishpedia\src\pipeline_eval.py:107:80: E501 line too long (82 > 79 characters)
+.\phishpedia\src\pipeline_eval.py:115:17: F405 'config_rcnn' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\phishpedia\src\pipeline_eval.py:118:51: F405 'phishpedia_config' may be undefined, or defined from star imports: phishpedia.src.detectron2_pedia.inference, phishpedia.src.siamese
+.\phishpedia\src\pipeline_eval.py:118:80: E501 line too long (84 > 79 characters)
+.\phishpedia\src\pipeline_eval.py:119:80: E501 line too long (126 > 79 characters)
+.\phishpedia\src\pipeline_eval.py:120:80: E501 line too long (123 > 79 characters)
+.\phishpedia\src\siamese.py:12:1: E302 expected 2 blank lines, found 1
+.\phishpedia\src\siamese.py:12:34: E231 missing whitespace after ':'
+.\phishpedia\src\siamese.py:12:52: E231 missing whitespace after ':'
+.\phishpedia\src\siamese.py:12:73: E231 missing whitespace after ':'
+.\phishpedia\src\siamese.py:12:80: E501 line too long (95 > 79 characters)
+.\phishpedia\src\siamese.py:23:1: W293 blank line contains whitespace
+.\phishpedia\src\siamese.py:34:29: E225 missing whitespace around operator
+.\phishpedia\src\siamese.py:35:1: W293 blank line contains whitespace
+.\phishpedia\src\siamese.py:43:1: W293 blank line contains whitespace
+.\phishpedia\src\siamese.py:45:35: E261 at least two spaces before inline comment
+.\phishpedia\src\siamese.py:48:80: E501 line too long (134 > 79 characters)
+.\phishpedia\src\siamese.py:49:80: E501 line too long (103 > 79 characters)
+.\phishpedia\src\siamese.py:50:80: E501 line too long (115 > 79 characters)
+.\phishpedia\src\siamese.py:50:90: E261 at least two spaces before inline comment
+.\phishpedia\src\siamese.py:52:80: E501 line too long (104 > 79 characters)
+.\phishpedia\src\siamese.py:52:105: W291 trailing whitespace
+.\phishpedia\src\siamese.py:53:80: E501 line too long (85 > 79 characters)
+.\phishpedia\src\siamese.py:54:80: E501 line too long (92 > 79 characters)
+.\phishpedia\src\siamese.py:55:1: W293 blank line contains whitespace
+.\phishpedia\src\siamese.py:91:27: E128 continuation line under-indented for visual indent
+.\phishpedia\src\siamese.py:92:27: E128 continuation line under-indented for visual indent
+.\phishpedia\src\siamese.py:92:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\siamese.py:93:27: E128 continuation line under-indented for visual indent
+.\phishpedia\src\siamese.py:94:27: E128 continuation line under-indented for visual indent
+.\phishpedia\src\siamese.py:113:80: E501 line too long (85 > 79 characters)
+.\phishpedia\src\siamese.py:120:80: E501 line too long (92 > 79 characters)
+.\phishpedia\src\siamese.py:121:69: E128 continuation line under-indented for visual indent
+.\phishpedia\src\siamese.py:121:80: E501 line too long (99 > 79 characters)
+.\phishpedia\src\siamese.py:122:69: E128 continuation line under-indented for visual indent
+.\phishpedia\src\siamese.py:122:80: E501 line too long (109 > 79 characters)
+.\phishpedia\src\siamese.py:127:80: E501 line too long (113 > 79 characters)
+.\phishpedia\src\siamese.py:129:80: E501 line too long (97 > 79 characters)
+.\phishpedia\src\siamese.py:130:80: E501 line too long (147 > 79 characters)
+.\phishpedia\src\siamese.py:141:1: W391 blank line at end of file
+.\phishpedia\src\siamese_pedia\inference.py:6:1: F401 'torch.nn' imported but unused
+.\phishpedia\src\siamese_pedia\inference.py:9:1: F401 'collections.OrderedDict' imported but unused
+.\phishpedia\src\siamese_pedia\inference.py:10:80: E501 line too long (84 > 79 characters)
+.\phishpedia\src\siamese_pedia\inference.py:11:1: F811 redefinition of unused 'plt' from line 5
+.\phishpedia\src\siamese_pedia\inference.py:45:5: E266 too many leading '#' for block comment
+.\phishpedia\src\siamese_pedia\inference.py:49:80: E501 line too long (96 > 79 characters)
+.\phishpedia\src\siamese_pedia\inference.py:53:5: E266 too many leading '#' for block comment
+.\phishpedia\src\siamese_pedia\inference.py:68:80: E501 line too long (106 > 79 characters)
+.\phishpedia\src\siamese_pedia\inference.py:73:80: E501 line too long (120 > 79 characters)
+.\phishpedia\src\siamese_pedia\inference.py:93:5: E266 too many leading '#' for block comment
+.\phishpedia\src\siamese_pedia\inference.py:95:80: E501 line too long (105 > 79 characters)
+.\phishpedia\src\siamese_pedia\inference.py:97:5: E266 too many leading '#' for block comment
+.\phishpedia\src\siamese_pedia\inference.py:98:80: E501 line too long (111 > 79 characters)
+.\phishpedia\src\siamese_pedia\inference.py:103:5: E266 too many leading '#' for block comment
+.\phishpedia\src\siamese_pedia\inference.py:110:80: E501 line too long (101 > 79 characters)
+.\phishpedia\src\siamese_pedia\inference.py:117:9: E266 too many leading '#' for block comment
+.\phishpedia\src\siamese_pedia\inference.py:117:80: E501 line too long (145 > 79 characters)
+.\phishpedia\src\siamese_pedia\inference.py:121:9: E266 too many leading '#' for block comment
+.\phishpedia\src\siamese_pedia\inference.py:127:9: E266 too many leading '#' for block comment
+.\phishpedia\src\siamese_pedia\inference.py:129:80: E501 line too long (85 > 79 characters)
+.\phishpedia\src\siamese_pedia\inference.py:130:80: E501 line too long (98 > 79 characters)
+.\phishpedia\src\siamese_pedia\inference.py:131:80: E501 line too long (106 > 79 characters)
+.\phishpedia\src\siamese_pedia\inference.py:139:9: E266 too many leading '#' for block comment
+.\phishpedia\src\siamese_pedia\inference.py:143:80: E501 line too long (87 > 79 characters)
+.\phishpedia\src\siamese_pedia\inference.py:154:1: W391 blank line at end of file
+.\phishpedia\src\siamese_pedia\siamese_retrain\__init__.py:14:1: W391 blank line at end of file
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:29:45: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:29:80: E501 line too long (108 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:31:45: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:31:80: E501 line too long (99 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:33:45: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:33:80: E501 line too long (87 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:35:45: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:35:80: E501 line too long (94 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:37:45: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:37:80: E501 line too long (107 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:39:80: E501 line too long (92 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:40:45: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:40:80: E501 line too long (106 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:41:45: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:41:80: E501 line too long (90 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:43:45: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:43:80: E501 line too long (100 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:44:45: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:46:45: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:46:80: E501 line too long (87 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:49:45: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:51:45: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:51:80: E501 line too long (117 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:53:45: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:53:80: E501 line too long (116 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:55:45: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:55:80: E501 line too long (104 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:56:45: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:56:80: E501 line too long (101 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:62:80: E501 line too long (88 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:70:80: E501 line too long (89 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:84:80: E501 line too long (90 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_hyperrule.py:27:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\__init__.py:14:1: W391 blank line at end of file
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:4:1: F401 'numpy as np' imported but unused
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:7:1: E302 expected 2 blank lines, found 1
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:8:80: E501 line too long (90 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:9:1: W293 blank line contains whitespace
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:25:13: F402 import 'data' from line 1 shadowed by loop variable
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:33:24: E225 missing whitespace around operator
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:41:80: E501 line too long (83 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:42:80: E501 line too long (106 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:52:27: W292 no newline at end of file
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:4:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:5:80: E501 line too long (89 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:12:1: E302 expected 2 blank lines, found 1
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:33:1: E302 expected 2 blank lines, found 1
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:35:5: F841 local variable 'fig' is assigned to but never used
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:38:80: E501 line too long (86 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:42:80: E501 line too long (86 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:46:80: E501 line too long (86 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:50:80: E501 line too long (86 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:54:80: E501 line too long (86 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:58:80: E501 line too long (86 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:62:80: E501 line too long (86 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:66:80: E501 line too long (86 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:70:80: E501 line too long (86 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:87:80: E501 line too long (120 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:87:103: E261 at least two spaces before inline comment
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:88:9: F841 local variable 'img_classes' is assigned to but never used
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:88:80: E501 line too long (104 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:88:93: E261 at least two spaces before inline comment
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:92:80: E501 line too long (82 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:98:80: E501 line too long (140 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:99:80: E501 line too long (82 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:106:80: E501 line too long (186 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:108:80: E501 line too long (93 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:116:38: E261 at least two spaces before inline comment
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:119:31: E261 at least two spaces before inline comment
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:123:80: E501 line too long (96 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:128:1: E303 too many blank lines (3)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:130:1: W293 blank line contains whitespace
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:138:27: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:138:80: E501 line too long (91 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:139:27: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:139:80: E501 line too long (92 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:140:27: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:141:1: W293 blank line contains whitespace
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:142:80: E501 line too long (110 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:143:1: W293 blank line contains whitespace
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:144:80: E501 line too long (94 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:145:80: E501 line too long (104 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:146:1: W293 blank line contains whitespace
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:150:21: E261 at least two spaces before inline comment
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:152:1: W293 blank line contains whitespace
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:17:1: E265 block comment should start with '# '
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:20:1: F403 'from collections import *' used; unable to detect undefined names
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:21:1: F403 'from functools import *' used; unable to detect undefined names
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:39:25: F405 'defaultdict' may be undefined, or defined from star imports: collections, functools
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:39:37: F405 'partial' may be undefined, or defined from star imports: collections, functools
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:39:45: F405 'deque' may be undefined, or defined from star imports: collections, functools
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:44:1: W293 blank line contains whitespace
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:60:80: E501 line too long (88 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:62:80: E501 line too long (95 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:65:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:73:52: F405 'preprocess' may be undefined, or defined from star imports: collections, functools
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:76:13: E117 over-indented
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:108:9: E741 ambiguous variable name 'l'
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:110:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:112:42: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:124:80: E501 line too long (105 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:148:80: E501 line too long (105 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:32:41: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:37:38: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:42:38: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:55:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:69:80: E501 line too long (85 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:96:80: E501 line too long (83 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:97:80: E501 line too long (83 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:98:80: E501 line too long (83 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:99:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:100:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:101:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:113:80: E501 line too long (84 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:120:80: E501 line too long (94 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:129:80: E501 line too long (92 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:130:80: E501 line too long (136 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:133:80: E501 line too long (104 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:134:80: E501 line too long (137 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:137:80: E501 line too long (105 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:138:80: E501 line too long (139 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:141:80: E501 line too long (106 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:142:80: E501 line too long (139 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:152:80: E501 line too long (82 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:162:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:163:21: E231 missing whitespace after ','
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:163:23: E231 missing whitespace after ','
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:167:80: E501 line too long (140 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:168:80: E501 line too long (82 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:174:80: E501 line too long (125 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:175:80: E501 line too long (86 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:185:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:186:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:187:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:188:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:191:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:192:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:193:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:194:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:17:1: E265 block comment should start with '# '
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:26:1: F401 'phishpedia.src.siamese_pedia.siamese_retrain.bit_pytorch.fewshot as fs' imported but unused
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:28:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:30:80: E501 line too long (82 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:31:80: E501 line too long (89 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:34:35: E225 missing whitespace around operator
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:38:80: E501 line too long (97 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:70:33: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:71:33: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:71:80: E501 line too long (84 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:72:33: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:73:1: W293 blank line contains whitespace
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:76:80: E501 line too long (82 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:78:1: W293 blank line contains whitespace
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:80:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:81:45: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:81:80: E501 line too long (110 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:82:45: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:82:80: E501 line too long (110 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:83:45: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:84:1: W293 blank line contains whitespace
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:85:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:86:80: E501 line too long (95 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:87:80: E501 line too long (96 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:91:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:105:80: E501 line too long (93 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:106:80: E501 line too long (91 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:109:80: E501 line too long (98 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:110:80: E501 line too long (114 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:152:22: E741 ambiguous variable name 'l'
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:161:48: E741 ambiguous variable name 'l'
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:164:1: E302 expected 2 blank lines, found 1
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:178:1: E302 expected 2 blank lines, found 1
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:191:80: E501 line too long (93 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:196:1: W293 blank line contains whitespace
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:199:1: W293 blank line contains whitespace
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:209:80: E501 line too long (89 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:219:80: E501 line too long (80 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:225:1: W293 blank line contains whitespace
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:231:23: E231 missing whitespace after ','
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:277:80: E501 line too long (85 > 79 characters)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:277:86: W291 trailing whitespace
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:287:1: W293 blank line contains whitespace
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:294:28: E203 whitespace before ':'
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:302:20: E203 whitespace before ':'
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:306:5: E303 too many blank lines (2)
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:312:45: E127 continuation line over-indented for visual indent
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:312:80: E501 line too long (99 > 79 characters)
+.\phishpedia\src\siamese_pedia\utils.py:1:1: F401 'PIL.Image' imported but unused
+.\phishpedia\src\siamese_pedia\utils.py:4:1: E302 expected 2 blank lines, found 1
+.\phishpedia\src\siamese_pedia\utils.py:14:35: E262 inline comment should start with '# '
+.\phishpedia\src\siamese_pedia\utils.py:17:76: E261 at least two spaces before inline comment
+.\phishpedia\src\siamese_pedia\utils.py:17:80: E501 line too long (110 > 79 characters)
+.\phishpedia\src\siamese_pedia\utils.py:21:76: W291 trailing whitespace
+.\phishpedia\src\siamese_pedia\utils.py:22:36: W291 trailing whitespace
+.\phishpedia\src\siamese_pedia\utils.py:24:1: E302 expected 2 blank lines, found 1
+.\phishpedia\src\siamese_pedia\utils.py:48:80: E501 line too long (102 > 79 characters)
+.\phishpedia\src\siamese_pedia\utils.py:78:80: E501 line too long (100 > 79 characters)
+.\phishpedia\src\siamese_pedia\utils.py:123:26: W292 no newline at end of file
+.\phishpedia\src\util\chrome.py:15:62: E231 missing whitespace after ':'
+.\phishpedia\src\util\chrome.py:21:10: E275 missing whitespace after keyword
+.\phishpedia\src\util\chrome.py:21:80: E501 line too long (81 > 79 characters)
+.\phishpedia\src\util\chrome.py:22:80: E501 line too long (91 > 79 characters)
+.\phishpedia\src\util\chrome.py:23:80: E501 line too long (86 > 79 characters)
+.\phishpedia\src\util\chrome.py:26:17: E225 missing whitespace around operator
+.\phishpedia\src\util\chrome.py:28:80: E501 line too long (90 > 79 characters)
+.\phishpedia\src\util\chrome.py:37:1: W391 blank line at end of file
+.\run.py:2:1: F403 'from phishpedia.phishpedia_main import *' used; unable to detect undefined names
+.\run.py:5:1: F401 'sys' imported but unused
+.\run.py:6:1: F811 redefinition of unused 'datetime' from line 4
+.\run.py:6:1: F811 redefinition of unused 'time' from line 3
+.\run.py:6:1: F401 'datetime.time' imported but unused
+.\run.py:6:1: F401 'datetime.timedelta' imported but unused
+.\run.py:9:35: E225 missing whitespace around operator
+.\run.py:14:80: E501 line too long (103 > 79 characters)
+.\run.py:14:87: F405 'load_config' may be undefined, or defined from star imports: phishpedia.phishpedia_main
+.\run.py:27:5: F405 'runit' may be undefined, or defined from star imports: phishpedia.phishpedia_main
+.\run.py:27:80: E501 line too long (117 > 79 characters)
+.\run.py:29:1: W391 blank line at end of file
+.\setup.py:1:1: F401 'setuptools.find_packages' imported but unused
+.\setup.py:2:1: F401 'functools.reduce' imported but unused
+.\setup.py:4:8: E225 missing whitespace around operator
+.\setup.py:19:80: E501 line too long (146 > 79 characters)
+.\setup.py:20:80: E501 line too long (106 > 79 characters)

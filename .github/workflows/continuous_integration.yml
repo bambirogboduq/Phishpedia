@@ -1,0 +1,37 @@
+name: Phishpedia continuous integration test
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Set up Conda
+      uses: conda-incubator/setup-miniconda@v2
+      with:
+        activate-environment: myenv
+    - name: Run setup script
+      run: |
+        chmod +x ./setup.sh
+        ./setup.sh
+    - name: Install dependencies
+      run: |
+        conda activate myenv
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Run tests
+      run: |
+        conda activate myenv
+        python phishpedia/test/adv_test.py
+        python phishpedia/test/attack_test.py
+        python phishpedia/test/detectron_inference_test.py
+        python phishpedia/test/pipeline_eval_test.py
+        python phishpedia/test/register_backbone_test.py
+        python phishpedia/test/viztest.py

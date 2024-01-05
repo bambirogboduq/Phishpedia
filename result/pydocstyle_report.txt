@@ -1,0 +1,924 @@
+.\run.py:1 at module level:
+        D100: Missing docstring in public module
+.\setup.py:1 at module level:
+        D100: Missing docstring in public module
+.\build\lib\phishpedia\phishpedia_config.py:1 at module level:
+        D100: Missing docstring in public module
+.\build\lib\phishpedia\phishpedia_config.py:10 in public function `load_config`:
+        D103: Missing docstring in public function
+.\build\lib\phishpedia\phishpedia_main.py:1 at module level:
+        D100: Missing docstring in public module
+.\build\lib\phishpedia\phishpedia_main.py:19 in public function `test`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\phishpedia_main.py:19 in public function `test`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\build\lib\phishpedia\phishpedia_main.py:19 in public function `test`:
+        D400: First line should end with a period (not 't')
+.\build\lib\phishpedia\phishpedia_main.py:77 in public function `runit`:
+        D103: Missing docstring in public function
+.\build\lib\phishpedia\__init__.py:1 at module level:
+        D104: Missing docstring in public package
+.\build\lib\phishpedia\src\pipeline_eval.py:1 at module level:
+        D100: Missing docstring in public module
+.\build\lib\phishpedia\src\pipeline_eval.py:12 in public function `phishpedia_eval`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\pipeline_eval.py:12 in public function `phishpedia_eval`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\build\lib\phishpedia\src\pipeline_eval.py:12 in public function `phishpedia_eval`:
+        D400: First line should end with a period (not 'n')
+.\build\lib\phishpedia\src\siamese.py:1 at module level:
+        D100: Missing docstring in public module
+.\build\lib\phishpedia\src\siamese.py:13 in public function `phishpedia_config`:
+        D202: No blank lines allowed after function docstring (found 1)
+.\build\lib\phishpedia\src\siamese.py:13 in public function `phishpedia_config`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\siamese.py:13 in public function `phishpedia_config`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\build\lib\phishpedia\src\siamese.py:13 in public function `phishpedia_config`:
+        D400: First line should end with a period (not 's')
+.\build\lib\phishpedia\src\siamese.py:60 in public function `phishpedia_config_easy`:
+        D202: No blank lines allowed after function docstring (found 1)
+.\build\lib\phishpedia\src\siamese.py:60 in public function `phishpedia_config_easy`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\siamese.py:60 in public function `phishpedia_config_easy`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\build\lib\phishpedia\src\siamese.py:60 in public function `phishpedia_config_easy`:
+        D400: First line should end with a period (not 'y')
+.\build\lib\phishpedia\src\siamese.py:95 in public function `phishpedia_classifier_logo`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\siamese.py:95 in public function `phishpedia_classifier_logo`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\build\lib\phishpedia\src\siamese.py:95 in public function `phishpedia_classifier_logo`:
+        D400: First line should end with a period (not 'e')
+.\build\lib\phishpedia\src\__init__.py:1 at module level:
+        D104: Missing docstring in public package
+.\build\lib\phishpedia\src\adv_attack\__init__.py:1 at module level:
+        D104: Missing docstring in public package
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:1 at module level:
+        D100: Missing docstring in public module
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:13 in public class `adversarial_attack`:
+        D200: One-line docstring should fit on one line with quotes (found 3)
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:13 in public class `adversarial_attack`:
+        D204: 1 blank line required after class docstring (found 0)
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:13 in public class `adversarial_attack`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:13 in public class `adversarial_attack`:
+        D400: First line should end with a period (not 'k')
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:17 in public method `__init__`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:17 in public method `__init__`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:17 in public method `__init__`:
+        D400: First line should end with a period (not 'e')
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:33 in public method `batch_attack`:
+        D200: One-line docstring should fit on one line with quotes (found 4)
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:33 in public method `batch_attack`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\build\lib\phishpedia\src\adv_attack\attack\Attack.py:33 in public method `batch_attack`:
+        D400: First line should end with a period (not 'a')
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:1 at module level:
+        D100: Missing docstring in public module
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:7 in public function `cw`:
+        D202: No blank lines allowed after function docstring (found 1)
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:7 in public function `cw`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:7 in public function `cw`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:7 in public function `cw`:
+        D400: First line should end with a period (not 'h')
+.\build\lib\phishpedia\src\adv_attack\attack\CWL2.py:7 in public function `cw`:
+        D401: First line should be in imperative mood; try rephrasing (found 'Implementation')
+.\build\lib\phishpedia\src\adv_attack\attack\DeepFool.py:1 at module level:
+        D100: Missing docstring in public module
+.\build\lib\phishpedia\src\adv_attack\attack\DeepFool.py:11 in public function `deepfool`:
+        D202: No blank lines allowed after function docstring (found 1)
+.\build\lib\phishpedia\src\adv_attack\attack\DeepFool.py:11 in public function `deepfool`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\adv_attack\attack\DeepFool.py:11 in public function `deepfool`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\build\lib\phishpedia\src\adv_attack\attack\DeepFool.py:11 in public function `deepfool`:
+        D400: First line should end with a period (not 'n')
+.\build\lib\phishpedia\src\adv_attack\attack\FGSM.py:1 at module level:
+        D100: Missing docstring in public module
+.\build\lib\phishpedia\src\adv_attack\attack\FGSM.py:11 in public function `fgsm`:
+        D202: No blank lines allowed after function docstring (found 1)
+.\build\lib\phishpedia\src\adv_attack\attack\FGSM.py:11 in public function `fgsm`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\adv_attack\attack\FGSM.py:11 in public function `fgsm`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\build\lib\phishpedia\src\adv_attack\attack\FGSM.py:11 in public function `fgsm`:
+        D400: First line should end with a period (not 'l')
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:1 at module level:
+        D100: Missing docstring in public module
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:11 in public function `compute_jacobian`:
+        D202: No blank lines allowed after function docstring (found 1)
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:11 in public function `compute_jacobian`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:11 in public function `compute_jacobian`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:11 in public function `compute_jacobian`:
+        D400: First line should end with a period (not 't')
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:11 in public function `compute_jacobian`:
+        D401: First line should be in imperative mood; try rephrasing (found 'Helper')
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:11 in public function `compute_jacobian`:
+        D403: First word of the first line should be properly capitalized ("'helper", not "'Helper")
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:33 in public function `saliency_map`:
+        D202: No blank lines allowed after function docstring (found 1)
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:33 in public function `saliency_map`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:33 in public function `saliency_map`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:33 in public function `saliency_map`:
+        D400: First line should end with a period (not 'x')
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:33 in public function `saliency_map`:
+        D401: First line should be in imperative mood; try rephrasing (found 'Helper')
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:57 in public function `jsma`:
+        D202: No blank lines allowed after function docstring (found 1)
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:57 in public function `jsma`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:57 in public function `jsma`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\build\lib\phishpedia\src\adv_attack\attack\JSMA.py:57 in public function `jsma`:
+        D400: First line should end with a period (not 'y')
+.\build\lib\phishpedia\src\detectron2_pedia\eval.py:1 at module level:
+        D100: Missing docstring in public module
+.\build\lib\phishpedia\src\detectron2_pedia\eval.py:7 in public function `evaluate`:
+        D103: Missing docstring in public function
+.\build\lib\phishpedia\src\detectron2_pedia\inference.py:1 at module level:
+        D100: Missing docstring in public module
+.\build\lib\phishpedia\src\detectron2_pedia\inference.py:10 in public function `pred_rcnn`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\detectron2_pedia\inference.py:10 in public function `pred_rcnn`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\build\lib\phishpedia\src\detectron2_pedia\inference.py:10 in public function `pred_rcnn`:
+        D400: First line should end with a period (not 'N')
+.\build\lib\phishpedia\src\detectron2_pedia\inference.py:41 in public function `config_rcnn`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\detectron2_pedia\inference.py:41 in public function `config_rcnn`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\build\lib\phishpedia\src\detectron2_pedia\inference.py:41 in public function `config_rcnn`:
+        D400: First line should end with a period (not 'd')
+.\build\lib\phishpedia\src\detectron2_pedia\inference.py:61 in public function `vis`:
+        D202: No blank lines allowed after function docstring (found 1)
+.\build\lib\phishpedia\src\detectron2_pedia\inference.py:61 in public function `vis`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\detectron2_pedia\inference.py:61 in public function `vis`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\build\lib\phishpedia\src\detectron2_pedia\inference.py:61 in public function `vis`:
+        D400: First line should end with a period (not 's')
+.\build\lib\phishpedia\src\detectron2_pedia\run_DAG.py:1 at module level:
+        D100: Missing docstring in public module
+.\build\lib\phishpedia\src\detectron2_pedia\run_DAG.py:10 in public function `main`:
+        D103: Missing docstring in public function
+.\build\lib\phishpedia\src\detectron2_pedia\train_net.py:3 at module level:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\detectron2_pedia\train_net.py:43 in public class `Trainer`:
+        D101: Missing docstring in public class
+.\build\lib\phishpedia\src\detectron2_pedia\train_net.py:46 in public method `build_evaluator`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\detectron2_pedia\train_net.py:55 in public method `test_with_TTA`:
+        D102: Missing docstring in public method
+.\build\lib\phishpedia\src\detectron2_pedia\train_net.py:73 in public method `build_train_loader`:
+        D102: Missing docstring in public method
+.\build\lib\phishpedia\src\detectron2_pedia\train_net.py:80 in public function `setup`:
+        D200: One-line docstring should fit on one line with quotes (found 3)
+.\build\lib\phishpedia\src\detectron2_pedia\train_net.py:98 in public function `load_yaml`:
+        D103: Missing docstring in public function
+.\build\lib\phishpedia\src\detectron2_pedia\train_net.py:108 in public function `main`:
+        D103: Missing docstring in public function
+.\build\lib\phishpedia\src\detectron2_pedia\__init__.py:1 at module level:
+        D104: Missing docstring in public package
+.\build\lib\phishpedia\src\detectron2_pedia\configs\__init__.py:1 at module level:
+        D104: Missing docstring in public package
+.\build\lib\phishpedia\src\detectron2_pedia\configs\bases\__init__.py:1 at module level:
+        D104: Missing docstring in public package
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:1 at module level:
+        D100: Missing docstring in public module
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:20 in public class `DAGAttacker`:
+        D101: Missing docstring in public class
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:29 in public method `__init__`:
+        D400: First line should end with a period (not 'm')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:29 in public method `__init__`:
+        D401: First line should be in imperative mood (perhaps 'Implement', not 'Implements')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:89 in public method `run_DAG`:
+        D401: First line should be in imperative mood (perhaps 'Run', not 'Runs')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:174 in public method `attack_image`:
+        D400: First line should end with a period (not 'r')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:263 in private method `_create_instance_dicts`:
+        D400: First line should end with a period (not 't')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:308 in private method `_post_process_image`:
+        D400: First line should end with a period (not 'n')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:326 in private method `_get_adv_labels`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:326 in private method `_get_adv_labels`:
+        D400: First line should end with a period (not ',')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:409 in private method `_filter_positive_proposals`:
+        D400: First line should end with a period (not 'o')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:452 in public method `__call__`:
+        D400: First line should end with a period (not 'e')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:452 in public method `__call__`:
+        D401: First line should be in imperative mood; try rephrasing (found 'Simple')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:1 at module level:
+        D200: One-line docstring should fit on one line with quotes (found 2)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:27 in public function `build_transform_gen`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:59 in public class `BenignMapper`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:59 in public class `BenignMapper`:
+        D400: First line should end with a period (not ',')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:72 in public method `__init__`:
+        D107: Missing docstring in __init__
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:104 in public method `__call__`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:104 in public method `__call__`:
+        D400: First line should end with a period (not ':')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:1 at module level:
+        D100: Missing docstring in public module
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:28 in public class `QuantizeRelu`:
+        D200: One-line docstring should fit on one line with quotes (found 3)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:28 in public class `QuantizeRelu`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:28 in public class `QuantizeRelu`:
+        D400: First line should end with a period (not 'u')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:32 in public method `__init__`:
+        D107: Missing docstring in __init__
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:36 in public method `forward`:
+        D102: Missing docstring in public method
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:46 in public class `BottleneckBlockQuantize`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:46 in public class `BottleneckBlockQuantize`:
+        D400: First line should end with a period (not '2')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:64 in public method `__init__`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:64 in public method `__init__`:
+        D400: First line should end with a period (not ':')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:127 in public method `forward`:
+        D102: Missing docstring in public method
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:148 in public class `BasicStemQuantize`:
+        D200: One-line docstring should fit on one line with quotes (found 3)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:153 in public method `__init__`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:153 in public method `__init__`:
+        D400: First line should end with a period (not ':')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:171 in public method `forward`:
+        D102: Missing docstring in public method
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:180 in public class `BasicBlockQuantize`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:180 in public class `BasicBlockQuantize`:
+        D400: First line should end with a period (not ',')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:186 in public method `__init__`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:186 in public method `__init__`:
+        D400: First line should end with a period (not ':')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:232 in public method `forward`:
+        D102: Missing docstring in public method
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:249 in public class `DeformBottleneckBlockQuantize`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:249 in public class `DeformBottleneckBlockQuantize`:
+        D400: First line should end with a period (not '`')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:254 in public method `__init__`:
+        D107: Missing docstring in __init__
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:338 in public method `forward`:
+        D102: Missing docstring in public method
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:368 in public function `build_resnet_backbone_quantize`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:459 in public function `build_resnet_fpn_backbone_quantize`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:459 in public function `build_resnet_fpn_backbone_quantize`:
+        D400: First line should end with a period (not ':')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:1 at module level:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:1 at module level:
+        D400: First line should end with a period (not 'o')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:35 in public function `viz_data`:
+        D401: First line should be in imperative mood (perhaps 'Return', not 'Returns')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:86 in public function `viz_preds`:
+        D401: First line should be in imperative mood (perhaps 'Return', not 'Returns')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:156 in public function `plot_imgs`:
+        D401: First line should be in imperative mood (perhaps 'Plot', not 'Plots')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:189 in public function `create_instances`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:189 in public function `create_instances`:
+        D400: First line should end with a period (not 's')
+.\build\lib\phishpedia\src\detectron2_pedia\detectron2_1\__init__.py:1 at module level:
+        D104: Missing docstring in public package
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:1 at module level:
+        D100: Missing docstring in public module
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:15 in public function `l2_norm`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:15 in public function `l2_norm`:
+        D400: First line should end with a period (not 'n')
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:22 in public function `pred_siamese`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:22 in public function `pred_siamese`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:22 in public function `pred_siamese`:
+        D400: First line should end with a period (not 'e')
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:74 in public function `siamese_inference`:
+        D202: No blank lines allowed after function docstring (found 1)
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:74 in public function `siamese_inference`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:74 in public function `siamese_inference`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\build\lib\phishpedia\src\siamese_pedia\inference.py:74 in public function `siamese_inference`:
+        D400: First line should end with a period (not 'e')
+.\build\lib\phishpedia\src\siamese_pedia\utils.py:1 at module level:
+        D100: Missing docstring in public module
+.\build\lib\phishpedia\src\siamese_pedia\utils.py:5 in public function `resolution_alignment`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\siamese_pedia\utils.py:5 in public function `resolution_alignment`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\build\lib\phishpedia\src\siamese_pedia\utils.py:5 in public function `resolution_alignment`:
+        D400: First line should end with a period (not 'o')
+.\build\lib\phishpedia\src\siamese_pedia\utils.py:25 in public function `brand_converter`:
+        D200: One-line docstring should fit on one line with quotes (found 3)
+.\build\lib\phishpedia\src\siamese_pedia\utils.py:25 in public function `brand_converter`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\build\lib\phishpedia\src\siamese_pedia\utils.py:25 in public function `brand_converter`:
+        D400: First line should end with a period (not 'g')
+.\build\lib\phishpedia\src\siamese_pedia\utils.py:25 in public function `brand_converter`:
+        D401: First line should be in imperative mood; try rephrasing (found 'Helper')
+.\build\lib\phishpedia\src\siamese_pedia\__init__.py:1 at module level:
+        D104: Missing docstring in public package
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:1 at module level:
+        D100: Missing docstring in public module
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:26 in public function `argparser`:
+        D103: Missing docstring in public function
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:61 in public function `setup_logger`:
+        D401: First line should be in imperative mood (perhaps 'Create', not 'Creates')
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_hyperrule.py:1 at module level:
+        D100: Missing docstring in public module
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_hyperrule.py:15 in public function `get_resolution`:
+        D103: Missing docstring in public function
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_hyperrule.py:25 in public function `get_resolution_from_dataset`:
+        D103: Missing docstring in public function
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_hyperrule.py:31 in public function `get_mixup`:
+        D103: Missing docstring in public function
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_hyperrule.py:35 in public function `get_schedule`:
+        D103: Missing docstring in public function
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_hyperrule.py:45 in public function `get_lr`:
+        D401: First line should be in imperative mood (perhaps 'Return', not 'Returns')
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\__init__.py:1 at module level:
+        D104: Missing docstring in public package
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:1 at module level:
+        D100: Missing docstring in public module
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:7 in public class `GetLoader`:
+        D101: Missing docstring in public class
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:8 in public method `__init__`:
+        D107: Missing docstring in __init__
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:31 in public method `__getitem__`:
+        D105: Missing docstring in magic method
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:51 in public method `__len__`:
+        D105: Missing docstring in magic method
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:1 at module level:
+        D100: Missing docstring in public module
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:12 in public function `evaluate`:
+        D103: Missing docstring in public function
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:33 in public function `heatmap_vis`:
+        D103: Missing docstring in public function
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:76 in public function `evaluate_special`:
+        D103: Missing docstring in public function
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:111 in public function `cls_avg_heatmaps`:
+        D103: Missing docstring in public function
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:29 in public class `AddIndexIter`:
+        D101: Missing docstring in public class
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:38 in public function `find_indices_loader`:
+        D103: Missing docstring in public function
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:51 in public function `find_fewshot_indices`:
+        D103: Missing docstring in public function
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:35 in public method `__init__`:
+        D107: Missing docstring in __init__
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:41 in public method `__enter__`:
+        D105: Missing docstring in magic method
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:61 in public method `__exit__`:
+        D105: Missing docstring in magic method
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:64 in public method `release`:
+        D102: Missing docstring in public method
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:74 in public method `__init__`:
+        D107: Missing docstring in __init__
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:77 in public method `__enter__`:
+        D105: Missing docstring in magic method
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:80 in public method `__exit__`:
+        D105: Missing docstring in magic method
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:88 in public method `__init__`:
+        D107: Missing docstring in __init__
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:91 in public method `measure`:
+        D102: Missing docstring in public method
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:97 in public method `times`:
+        D102: Missing docstring in public method
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:100 in public method `avgtime`:
+        D102: Missing docstring in public method
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:106 in public method `__str__`:
+        D105: Missing docstring in magic method
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:116 in public function `create_dat`:
+        D401: First line should be in imperative mood (perhaps 'Create', not 'Creates')
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:139 in public function `load_dat`:
+        D401: First line should be in imperative mood (perhaps 'Load', not 'Loads')
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:25 in public class `StdConv2d`:
+        D101: Missing docstring in public class
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:27 in public method `forward`:
+        D102: Missing docstring in public method
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:35 in public function `conv3x3`:
+        D103: Missing docstring in public function
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:40 in public function `conv1x1`:
+        D103: Missing docstring in public function
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:61 in public method `__init__`:
+        D107: Missing docstring in __init__
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:78 in public method `forward`:
+        D102: Missing docstring in public method
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:93 in public method `load_from`:
+        D102: Missing docstring in public method
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:113 in public method `__init__`:
+        D107: Missing docstring in __init__
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:155 in public method `features`:
+        D102: Missing docstring in public method
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:160 in public method `forward`:
+        D102: Missing docstring in public method
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:165 in public method `load_from`:
+        D102: Missing docstring in public method
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:38 in public function `topk`:
+        D401: First line should be in imperative mood (perhaps 'Return', not 'Returns')
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:53 in public function `mktrainval`:
+        D401: First line should be in imperative mood (perhaps 'Return', not 'Returns')
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:115 in public function `run_eval`:
+        D103: Missing docstring in public function
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:153 in public function `mixup_data`:
+        D400: First line should end with a period (not 'a')
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:153 in public function `mixup_data`:
+        D401: First line should be in imperative mood (perhaps 'Return', not 'Returns')
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:161 in public function `mixup_criterion`:
+        D103: Missing docstring in public function
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:164 in public function `optimizer_to`:
+        D103: Missing docstring in public function
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:178 in public function `main`:
+        D103: Missing docstring in public function
+.\build\lib\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\__init__.py:1 at module level:
+        D104: Missing docstring in public package
+.\build\lib\phishpedia\src\util\chrome.py:1 at module level:
+        D100: Missing docstring in public module
+.\build\lib\phishpedia\src\util\chrome.py:6 in public function `vt_scan`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\build\lib\phishpedia\src\util\chrome.py:6 in public function `vt_scan`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\build\lib\phishpedia\src\util\chrome.py:6 in public function `vt_scan`:
+        D400: First line should end with a period (not 'n')
+.\phishpedia\phishpedia_config.py:1 at module level:
+        D100: Missing docstring in public module
+.\phishpedia\phishpedia_config.py:10 in public function `load_config`:
+        D103: Missing docstring in public function
+.\phishpedia\phishpedia_main.py:1 at module level:
+        D100: Missing docstring in public module
+.\phishpedia\phishpedia_main.py:19 in public function `test`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\phishpedia_main.py:19 in public function `test`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\phishpedia\phishpedia_main.py:19 in public function `test`:
+        D400: First line should end with a period (not 't')
+.\phishpedia\phishpedia_main.py:77 in public function `runit`:
+        D103: Missing docstring in public function
+.\phishpedia\__init__.py:1 at module level:
+        D104: Missing docstring in public package
+.\phishpedia\src\pipeline_eval.py:1 at module level:
+        D100: Missing docstring in public module
+.\phishpedia\src\pipeline_eval.py:12 in public function `phishpedia_eval`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\pipeline_eval.py:12 in public function `phishpedia_eval`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\phishpedia\src\pipeline_eval.py:12 in public function `phishpedia_eval`:
+        D400: First line should end with a period (not 'n')
+.\phishpedia\src\siamese.py:1 at module level:
+        D100: Missing docstring in public module
+.\phishpedia\src\siamese.py:13 in public function `phishpedia_config`:
+        D202: No blank lines allowed after function docstring (found 1)
+.\phishpedia\src\siamese.py:13 in public function `phishpedia_config`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\siamese.py:13 in public function `phishpedia_config`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\phishpedia\src\siamese.py:13 in public function `phishpedia_config`:
+        D400: First line should end with a period (not 's')
+.\phishpedia\src\siamese.py:60 in public function `phishpedia_config_easy`:
+        D202: No blank lines allowed after function docstring (found 1)
+.\phishpedia\src\siamese.py:60 in public function `phishpedia_config_easy`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\siamese.py:60 in public function `phishpedia_config_easy`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\phishpedia\src\siamese.py:60 in public function `phishpedia_config_easy`:
+        D400: First line should end with a period (not 'y')
+.\phishpedia\src\siamese.py:95 in public function `phishpedia_classifier_logo`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\siamese.py:95 in public function `phishpedia_classifier_logo`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\phishpedia\src\siamese.py:95 in public function `phishpedia_classifier_logo`:
+        D400: First line should end with a period (not 'e')
+.\phishpedia\src\__init__.py:1 at module level:
+        D104: Missing docstring in public package
+.\phishpedia\src\adv_attack\__init__.py:1 at module level:
+        D104: Missing docstring in public package
+.\phishpedia\src\adv_attack\attack\Attack.py:1 at module level:
+        D100: Missing docstring in public module
+.\phishpedia\src\adv_attack\attack\Attack.py:13 in public class `adversarial_attack`:
+        D200: One-line docstring should fit on one line with quotes (found 3)
+.\phishpedia\src\adv_attack\attack\Attack.py:13 in public class `adversarial_attack`:
+        D204: 1 blank line required after class docstring (found 0)
+.\phishpedia\src\adv_attack\attack\Attack.py:13 in public class `adversarial_attack`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\phishpedia\src\adv_attack\attack\Attack.py:13 in public class `adversarial_attack`:
+        D400: First line should end with a period (not 'k')
+.\phishpedia\src\adv_attack\attack\Attack.py:17 in public method `__init__`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\adv_attack\attack\Attack.py:17 in public method `__init__`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\phishpedia\src\adv_attack\attack\Attack.py:17 in public method `__init__`:
+        D400: First line should end with a period (not 'e')
+.\phishpedia\src\adv_attack\attack\Attack.py:33 in public method `batch_attack`:
+        D200: One-line docstring should fit on one line with quotes (found 4)
+.\phishpedia\src\adv_attack\attack\Attack.py:33 in public method `batch_attack`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\phishpedia\src\adv_attack\attack\Attack.py:33 in public method `batch_attack`:
+        D400: First line should end with a period (not 'a')
+.\phishpedia\src\adv_attack\attack\CWL2.py:1 at module level:
+        D100: Missing docstring in public module
+.\phishpedia\src\adv_attack\attack\CWL2.py:7 in public function `cw`:
+        D202: No blank lines allowed after function docstring (found 1)
+.\phishpedia\src\adv_attack\attack\CWL2.py:7 in public function `cw`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\adv_attack\attack\CWL2.py:7 in public function `cw`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\phishpedia\src\adv_attack\attack\CWL2.py:7 in public function `cw`:
+        D400: First line should end with a period (not 'h')
+.\phishpedia\src\adv_attack\attack\CWL2.py:7 in public function `cw`:
+        D401: First line should be in imperative mood; try rephrasing (found 'Implementation')
+.\phishpedia\src\adv_attack\attack\DeepFool.py:1 at module level:
+        D100: Missing docstring in public module
+.\phishpedia\src\adv_attack\attack\DeepFool.py:11 in public function `deepfool`:
+        D202: No blank lines allowed after function docstring (found 1)
+.\phishpedia\src\adv_attack\attack\DeepFool.py:11 in public function `deepfool`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\adv_attack\attack\DeepFool.py:11 in public function `deepfool`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\phishpedia\src\adv_attack\attack\DeepFool.py:11 in public function `deepfool`:
+        D400: First line should end with a period (not 'n')
+.\phishpedia\src\adv_attack\attack\FGSM.py:1 at module level:
+        D100: Missing docstring in public module
+.\phishpedia\src\adv_attack\attack\FGSM.py:11 in public function `fgsm`:
+        D202: No blank lines allowed after function docstring (found 1)
+.\phishpedia\src\adv_attack\attack\FGSM.py:11 in public function `fgsm`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\adv_attack\attack\FGSM.py:11 in public function `fgsm`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\phishpedia\src\adv_attack\attack\FGSM.py:11 in public function `fgsm`:
+        D400: First line should end with a period (not 'l')
+.\phishpedia\src\adv_attack\attack\JSMA.py:1 at module level:
+        D100: Missing docstring in public module
+.\phishpedia\src\adv_attack\attack\JSMA.py:11 in public function `compute_jacobian`:
+        D202: No blank lines allowed after function docstring (found 1)
+.\phishpedia\src\adv_attack\attack\JSMA.py:11 in public function `compute_jacobian`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\adv_attack\attack\JSMA.py:11 in public function `compute_jacobian`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\phishpedia\src\adv_attack\attack\JSMA.py:11 in public function `compute_jacobian`:
+        D400: First line should end with a period (not 't')
+.\phishpedia\src\adv_attack\attack\JSMA.py:11 in public function `compute_jacobian`:
+        D401: First line should be in imperative mood; try rephrasing (found 'Helper')
+.\phishpedia\src\adv_attack\attack\JSMA.py:11 in public function `compute_jacobian`:
+        D403: First word of the first line should be properly capitalized ("'helper", not "'Helper")
+.\phishpedia\src\adv_attack\attack\JSMA.py:33 in public function `saliency_map`:
+        D202: No blank lines allowed after function docstring (found 1)
+.\phishpedia\src\adv_attack\attack\JSMA.py:33 in public function `saliency_map`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\adv_attack\attack\JSMA.py:33 in public function `saliency_map`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\phishpedia\src\adv_attack\attack\JSMA.py:33 in public function `saliency_map`:
+        D400: First line should end with a period (not 'x')
+.\phishpedia\src\adv_attack\attack\JSMA.py:33 in public function `saliency_map`:
+        D401: First line should be in imperative mood; try rephrasing (found 'Helper')
+.\phishpedia\src\adv_attack\attack\JSMA.py:57 in public function `jsma`:
+        D202: No blank lines allowed after function docstring (found 1)
+.\phishpedia\src\adv_attack\attack\JSMA.py:57 in public function `jsma`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\adv_attack\attack\JSMA.py:57 in public function `jsma`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\phishpedia\src\adv_attack\attack\JSMA.py:57 in public function `jsma`:
+        D400: First line should end with a period (not 'y')
+.\phishpedia\src\detectron2_pedia\eval.py:1 at module level:
+        D100: Missing docstring in public module
+.\phishpedia\src\detectron2_pedia\eval.py:7 in public function `evaluate`:
+        D103: Missing docstring in public function
+.\phishpedia\src\detectron2_pedia\inference.py:1 at module level:
+        D100: Missing docstring in public module
+.\phishpedia\src\detectron2_pedia\inference.py:10 in public function `pred_rcnn`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\detectron2_pedia\inference.py:10 in public function `pred_rcnn`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\phishpedia\src\detectron2_pedia\inference.py:10 in public function `pred_rcnn`:
+        D400: First line should end with a period (not 'N')
+.\phishpedia\src\detectron2_pedia\inference.py:41 in public function `config_rcnn`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\detectron2_pedia\inference.py:41 in public function `config_rcnn`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\phishpedia\src\detectron2_pedia\inference.py:41 in public function `config_rcnn`:
+        D400: First line should end with a period (not 'd')
+.\phishpedia\src\detectron2_pedia\inference.py:61 in public function `vis`:
+        D202: No blank lines allowed after function docstring (found 1)
+.\phishpedia\src\detectron2_pedia\inference.py:61 in public function `vis`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\detectron2_pedia\inference.py:61 in public function `vis`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\phishpedia\src\detectron2_pedia\inference.py:61 in public function `vis`:
+        D400: First line should end with a period (not 's')
+.\phishpedia\src\detectron2_pedia\run_DAG.py:1 at module level:
+        D100: Missing docstring in public module
+.\phishpedia\src\detectron2_pedia\run_DAG.py:10 in public function `main`:
+        D103: Missing docstring in public function
+.\phishpedia\src\detectron2_pedia\train_net.py:3 at module level:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\detectron2_pedia\train_net.py:43 in public class `Trainer`:
+        D101: Missing docstring in public class
+.\phishpedia\src\detectron2_pedia\train_net.py:46 in public method `build_evaluator`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\detectron2_pedia\train_net.py:55 in public method `test_with_TTA`:
+        D102: Missing docstring in public method
+.\phishpedia\src\detectron2_pedia\train_net.py:73 in public method `build_train_loader`:
+        D102: Missing docstring in public method
+.\phishpedia\src\detectron2_pedia\train_net.py:80 in public function `setup`:
+        D200: One-line docstring should fit on one line with quotes (found 3)
+.\phishpedia\src\detectron2_pedia\train_net.py:98 in public function `load_yaml`:
+        D103: Missing docstring in public function
+.\phishpedia\src\detectron2_pedia\train_net.py:108 in public function `main`:
+        D103: Missing docstring in public function
+.\phishpedia\src\detectron2_pedia\__init__.py:1 at module level:
+        D104: Missing docstring in public package
+.\phishpedia\src\detectron2_pedia\configs\__init__.py:1 at module level:
+        D104: Missing docstring in public package
+.\phishpedia\src\detectron2_pedia\configs\bases\__init__.py:1 at module level:
+        D104: Missing docstring in public package
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:1 at module level:
+        D100: Missing docstring in public module
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:20 in public class `DAGAttacker`:
+        D101: Missing docstring in public class
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:29 in public method `__init__`:
+        D400: First line should end with a period (not 'm')
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:29 in public method `__init__`:
+        D401: First line should be in imperative mood (perhaps 'Implement', not 'Implements')
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:89 in public method `run_DAG`:
+        D401: First line should be in imperative mood (perhaps 'Run', not 'Runs')
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:174 in public method `attack_image`:
+        D400: First line should end with a period (not 'r')
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:263 in private method `_create_instance_dicts`:
+        D400: First line should end with a period (not 't')
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:308 in private method `_post_process_image`:
+        D400: First line should end with a period (not 'n')
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:326 in private method `_get_adv_labels`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:326 in private method `_get_adv_labels`:
+        D400: First line should end with a period (not ',')
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:409 in private method `_filter_positive_proposals`:
+        D400: First line should end with a period (not 'o')
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:452 in public method `__call__`:
+        D400: First line should end with a period (not 'e')
+.\phishpedia\src\detectron2_pedia\detectron2_1\adv.py:452 in public method `__call__`:
+        D401: First line should be in imperative mood; try rephrasing (found 'Simple')
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:1 at module level:
+        D200: One-line docstring should fit on one line with quotes (found 2)
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:27 in public function `build_transform_gen`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:59 in public class `BenignMapper`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:59 in public class `BenignMapper`:
+        D400: First line should end with a period (not ',')
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:72 in public method `__init__`:
+        D107: Missing docstring in __init__
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:104 in public method `__call__`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\detectron2_pedia\detectron2_1\datasets.py:104 in public method `__call__`:
+        D400: First line should end with a period (not ':')
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:1 at module level:
+        D100: Missing docstring in public module
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:28 in public class `QuantizeRelu`:
+        D200: One-line docstring should fit on one line with quotes (found 3)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:28 in public class `QuantizeRelu`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:28 in public class `QuantizeRelu`:
+        D400: First line should end with a period (not 'u')
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:32 in public method `__init__`:
+        D107: Missing docstring in __init__
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:36 in public method `forward`:
+        D102: Missing docstring in public method
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:46 in public class `BottleneckBlockQuantize`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:46 in public class `BottleneckBlockQuantize`:
+        D400: First line should end with a period (not '2')
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:64 in public method `__init__`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:64 in public method `__init__`:
+        D400: First line should end with a period (not ':')
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:127 in public method `forward`:
+        D102: Missing docstring in public method
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:148 in public class `BasicStemQuantize`:
+        D200: One-line docstring should fit on one line with quotes (found 3)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:153 in public method `__init__`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:153 in public method `__init__`:
+        D400: First line should end with a period (not ':')
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:171 in public method `forward`:
+        D102: Missing docstring in public method
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:180 in public class `BasicBlockQuantize`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:180 in public class `BasicBlockQuantize`:
+        D400: First line should end with a period (not ',')
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:186 in public method `__init__`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:186 in public method `__init__`:
+        D400: First line should end with a period (not ':')
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:232 in public method `forward`:
+        D102: Missing docstring in public method
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:249 in public class `DeformBottleneckBlockQuantize`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:249 in public class `DeformBottleneckBlockQuantize`:
+        D400: First line should end with a period (not '`')
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:254 in public method `__init__`:
+        D107: Missing docstring in __init__
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:338 in public method `forward`:
+        D102: Missing docstring in public method
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:368 in public function `build_resnet_backbone_quantize`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:459 in public function `build_resnet_fpn_backbone_quantize`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\detectron2_pedia\detectron2_1\register_backbone.py:459 in public function `build_resnet_fpn_backbone_quantize`:
+        D400: First line should end with a period (not ':')
+.\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:1 at module level:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:1 at module level:
+        D400: First line should end with a period (not 'o')
+.\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:35 in public function `viz_data`:
+        D401: First line should be in imperative mood (perhaps 'Return', not 'Returns')
+.\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:86 in public function `viz_preds`:
+        D401: First line should be in imperative mood (perhaps 'Return', not 'Returns')
+.\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:156 in public function `plot_imgs`:
+        D401: First line should be in imperative mood (perhaps 'Plot', not 'Plots')
+.\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:189 in public function `create_instances`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\detectron2_pedia\detectron2_1\viz.py:189 in public function `create_instances`:
+        D400: First line should end with a period (not 's')
+.\phishpedia\src\detectron2_pedia\detectron2_1\__init__.py:1 at module level:
+        D104: Missing docstring in public package
+.\phishpedia\src\siamese_pedia\inference.py:1 at module level:
+        D100: Missing docstring in public module
+.\phishpedia\src\siamese_pedia\inference.py:15 in public function `l2_norm`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\phishpedia\src\siamese_pedia\inference.py:15 in public function `l2_norm`:
+        D400: First line should end with a period (not 'n')
+.\phishpedia\src\siamese_pedia\inference.py:22 in public function `pred_siamese`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\siamese_pedia\inference.py:22 in public function `pred_siamese`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\phishpedia\src\siamese_pedia\inference.py:22 in public function `pred_siamese`:
+        D400: First line should end with a period (not 'e')
+.\phishpedia\src\siamese_pedia\inference.py:74 in public function `siamese_inference`:
+        D202: No blank lines allowed after function docstring (found 1)
+.\phishpedia\src\siamese_pedia\inference.py:74 in public function `siamese_inference`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\siamese_pedia\inference.py:74 in public function `siamese_inference`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\phishpedia\src\siamese_pedia\inference.py:74 in public function `siamese_inference`:
+        D400: First line should end with a period (not 'e')
+.\phishpedia\src\siamese_pedia\utils.py:1 at module level:
+        D100: Missing docstring in public module
+.\phishpedia\src\siamese_pedia\utils.py:5 in public function `resolution_alignment`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\siamese_pedia\utils.py:5 in public function `resolution_alignment`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\phishpedia\src\siamese_pedia\utils.py:5 in public function `resolution_alignment`:
+        D400: First line should end with a period (not 'o')
+.\phishpedia\src\siamese_pedia\utils.py:25 in public function `brand_converter`:
+        D200: One-line docstring should fit on one line with quotes (found 3)
+.\phishpedia\src\siamese_pedia\utils.py:25 in public function `brand_converter`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\phishpedia\src\siamese_pedia\utils.py:25 in public function `brand_converter`:
+        D400: First line should end with a period (not 'g')
+.\phishpedia\src\siamese_pedia\utils.py:25 in public function `brand_converter`:
+        D401: First line should be in imperative mood; try rephrasing (found 'Helper')
+.\phishpedia\src\siamese_pedia\__init__.py:1 at module level:
+        D104: Missing docstring in public package
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:1 at module level:
+        D100: Missing docstring in public module
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:26 in public function `argparser`:
+        D103: Missing docstring in public function
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_common.py:61 in public function `setup_logger`:
+        D401: First line should be in imperative mood (perhaps 'Create', not 'Creates')
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_hyperrule.py:1 at module level:
+        D100: Missing docstring in public module
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_hyperrule.py:15 in public function `get_resolution`:
+        D103: Missing docstring in public function
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_hyperrule.py:25 in public function `get_resolution_from_dataset`:
+        D103: Missing docstring in public function
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_hyperrule.py:31 in public function `get_mixup`:
+        D103: Missing docstring in public function
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_hyperrule.py:35 in public function `get_schedule`:
+        D103: Missing docstring in public function
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_hyperrule.py:45 in public function `get_lr`:
+        D401: First line should be in imperative mood (perhaps 'Return', not 'Returns')
+.\phishpedia\src\siamese_pedia\siamese_retrain\__init__.py:1 at module level:
+        D104: Missing docstring in public package
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:1 at module level:
+        D100: Missing docstring in public module
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:7 in public class `GetLoader`:
+        D101: Missing docstring in public class
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:8 in public method `__init__`:
+        D107: Missing docstring in __init__
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:31 in public method `__getitem__`:
+        D105: Missing docstring in magic method
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\dataloader.py:51 in public method `__len__`:
+        D105: Missing docstring in magic method
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:1 at module level:
+        D100: Missing docstring in public module
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:12 in public function `evaluate`:
+        D103: Missing docstring in public function
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:33 in public function `heatmap_vis`:
+        D103: Missing docstring in public function
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:76 in public function `evaluate_special`:
+        D103: Missing docstring in public function
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\evaluate.py:111 in public function `cls_avg_heatmaps`:
+        D103: Missing docstring in public function
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:29 in public class `AddIndexIter`:
+        D101: Missing docstring in public class
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:38 in public function `find_indices_loader`:
+        D103: Missing docstring in public function
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\fewshot.py:51 in public function `find_fewshot_indices`:
+        D103: Missing docstring in public function
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:35 in public method `__init__`:
+        D107: Missing docstring in __init__
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:41 in public method `__enter__`:
+        D105: Missing docstring in magic method
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:61 in public method `__exit__`:
+        D105: Missing docstring in magic method
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:64 in public method `release`:
+        D102: Missing docstring in public method
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:74 in public method `__init__`:
+        D107: Missing docstring in __init__
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:77 in public method `__enter__`:
+        D105: Missing docstring in magic method
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:80 in public method `__exit__`:
+        D105: Missing docstring in magic method
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:88 in public method `__init__`:
+        D107: Missing docstring in __init__
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:91 in public method `measure`:
+        D102: Missing docstring in public method
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:97 in public method `times`:
+        D102: Missing docstring in public method
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:100 in public method `avgtime`:
+        D102: Missing docstring in public method
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:106 in public method `__str__`:
+        D105: Missing docstring in magic method
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:116 in public function `create_dat`:
+        D401: First line should be in imperative mood (perhaps 'Create', not 'Creates')
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\lbtoolbox.py:139 in public function `load_dat`:
+        D401: First line should be in imperative mood (perhaps 'Load', not 'Loads')
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:25 in public class `StdConv2d`:
+        D101: Missing docstring in public class
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:27 in public method `forward`:
+        D102: Missing docstring in public method
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:35 in public function `conv3x3`:
+        D103: Missing docstring in public function
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:40 in public function `conv1x1`:
+        D103: Missing docstring in public function
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:61 in public method `__init__`:
+        D107: Missing docstring in __init__
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:78 in public method `forward`:
+        D102: Missing docstring in public method
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:93 in public method `load_from`:
+        D102: Missing docstring in public method
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:113 in public method `__init__`:
+        D107: Missing docstring in __init__
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:155 in public method `features`:
+        D102: Missing docstring in public method
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:160 in public method `forward`:
+        D102: Missing docstring in public method
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\models.py:165 in public method `load_from`:
+        D102: Missing docstring in public method
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:38 in public function `topk`:
+        D401: First line should be in imperative mood (perhaps 'Return', not 'Returns')
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:53 in public function `mktrainval`:
+        D401: First line should be in imperative mood (perhaps 'Return', not 'Returns')
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:115 in public function `run_eval`:
+        D103: Missing docstring in public function
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:153 in public function `mixup_data`:
+        D400: First line should end with a period (not 'a')
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:153 in public function `mixup_data`:
+        D401: First line should be in imperative mood (perhaps 'Return', not 'Returns')
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:161 in public function `mixup_criterion`:
+        D103: Missing docstring in public function
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:164 in public function `optimizer_to`:
+        D103: Missing docstring in public function
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\train.py:178 in public function `main`:
+        D103: Missing docstring in public function
+.\phishpedia\src\siamese_pedia\siamese_retrain\bit_pytorch\__init__.py:1 at module level:
+        D104: Missing docstring in public package
+.\phishpedia\src\util\chrome.py:1 at module level:
+        D100: Missing docstring in public module
+.\phishpedia\src\util\chrome.py:6 in public function `vt_scan`:
+        D205: 1 blank line required between summary line and description (found 0)
+.\phishpedia\src\util\chrome.py:6 in public function `vt_scan`:
+        D300: Use """triple double quotes""" (found '''-quotes)
+.\phishpedia\src\util\chrome.py:6 in public function `vt_scan`:
+        D400: First line should end with a period (not 'n')

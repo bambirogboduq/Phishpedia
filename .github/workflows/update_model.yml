@@ -1,0 +1,39 @@
+name: Update Model
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update_model:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+
+    - name: Install Dependencies
+      run: |
+        pip install -q transformers
+
+    - name: Download Model
+      run: |
+        mkdir -p phishpedia/models
+        git clone --depth 1 --branch main https://huggingface.co/KaguraRuri/Models_pedia.git temp_models
+        cp -r temp_models/* phishpedia/models
+
+    - name: Commit Changes
+      run: |
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'actions@github.com'
+        git add phishpedia/models/*
+        git commit -m "Update model from Hugging Face Model Hub" || echo "No changes to commit"
+        git push
